@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "title": "某品牌产品质量争议",
+  "summary": "消费者发布产品质量问题视频，品牌方随后回应并启动调查。",
+  "keywords": ["产品质量", "品牌回应", "消费者"],
+  "sentiment_distribution": {
+    "positive": 15,
+    "neutral": 30,
+    "negative": 55
+  },
+  "trend_data": [
+    {"time": "2026-07-09T08:00:00+08:00", "value": 120},
+    {"time": "2026-07-09T09:00:00+08:00", "value": 145},
+    {"time": "2026-07-09T10:00:00+08:00", "value": 180}
+  ],
+  "platform_distribution": {
+    "微博": 55,
+    "抖音": 30,
+    "新闻": 15
+  }
+}

@@ -1,0 +1,3960 @@
+{
+  "meta": {
+    "total_events": 5,
+    "total_comments": 1509,
+    "platforms": [
+      "bilibili",
+      "weibo",
+      "toutiao",
+      "xiaohongshu"
+    ],
+    "comments_per_event": 600,
+    "generated_at": "2026-07-13 19:18:40",
+    "data_source": {
+      "real_crawled": 2622,
+      "fallback_generated": 1862
+    }
+  },
+  "events_config": [
+    {
+      "keyword": "台风巴威登陆",
+      "event_title": "超强台风\"巴威\"登陆浙江引发多省洪涝灾害与谣言治理风波",
+      "date_start": "2026-07-10",
+      "date_end": "2026-07-20",
+      "risk_level": "high",
+      "description": "7月11日超强台风\"巴威\"在浙江台州玉环登陆，最大风力17级以上，强降雨波及十余省区市。期间2人因编造涉台风谣言被依法处理。"
+    },
+    {
+      "keyword": "幽灵外卖平台被罚",
+      "event_title": "市场监管总局对\"幽灵外卖\"重拳出击，7家平台被罚35.97亿元",
+      "date_start": "2026-07-05",
+      "date_end": "2026-07-15",
+      "risk_level": "high",
+      "description": "市场监管总局对7家外卖平台\"幽灵店铺\"问题开出35.97亿元罚单，平台法定代表人同步被罚，引发外卖行业大震动。"
+    },
+    {
+      "keyword": "摆拍浸猪笼被刑拘",
+      "event_title": "湖南汨罗\"摆拍浸猪笼\"事件策划者被刑拘，低俗摆拍整治升级",
+      "date_start": "2026-07-04",
+      "date_end": "2026-07-14",
+      "risk_level": "medium",
+      "description": "何某纠集8人摆拍\"女子被关铁笼游街\"低俗场景博取流量，策划者被刑事拘留，参与者被行政拘留，释放明确法律信号。"
+    },
+    {
+      "keyword": "鹿晗工作室被踢出超话",
+      "event_title": "鹿晗粉丝将工作室\"踢出超话\"引爆内娱粉丝治理争议",
+      "date_start": "2026-07-06",
+      "date_end": "2026-07-16",
+      "risk_level": "medium",
+      "description": "因网红持续造谣\"鹿晗疑似出轨\"，工作室仅转发旧声明，激怒死忠粉。大吧公开将工作室移出超话关联，被称为\"内娱新型物种\"。"
+    },
+    {
+      "keyword": "热搜泛娱乐化争议",
+      "event_title": "主流媒体集体发声：公共议题应从娱乐八卦手中夺回热搜C位",
+      "date_start": "2026-07-05",
+      "date_end": "2026-07-15",
+      "risk_level": "medium",
+      "description": "台风洪涝期间娱乐八卦仍占据热搜大半，浙江日报、杭州网等主流媒体批评平台算法偏向娱乐内容，呼吁公共议题回归。"
+    }
+  ],
+  "basic_stats": {
+    "total_comments": 1509,
+    "avg_like_count": 466.42,
+    "top_like_comments": [
+      {
+        "content": "关于台风巴威登陆，等一个官方通报",
+        "like_count": 9763
+      },
+      {
+        "content": "#幽灵外卖平台被罚# 忍不了了，必须给个说法",
+        "like_count": 9364
+      },
+      {
+        "content": "#热搜泛娱乐化争议# 忍不了了，必须给个说法",
+        "like_count": 8963
+      },
+      {
+        "content": "#幽灵外卖平台被罚# 太让人气愤了[怒]",
+        "like_count": 8655
+      },
+      {
+        "content": "#幽灵外卖平台被罚# 支持！希望妥善解决[加油]",
+        "like_count": 8568
+      }
+    ]
+  },
+  "daily_trend": [
+    {
+      "date": "2026-06-05",
+      "count": 1
+    },
+    {
+      "date": "2026-06-13",
+      "count": 2
+    },
+    {
+      "date": "2026-06-20",
+      "count": 3
+    },
+    {
+      "date": "2026-06-21",
+      "count": 5
+    },
+    {
+      "date": "2026-06-22",
+      "count": 4
+    },
+    {
+      "date": "2026-06-25",
+      "count": 8
+    },
+    {
+      "date": "2026-06-26",
+      "count": 73
+    },
+    {
+      "date": "2026-06-27",
+      "count": 10
+    },
+    {
+      "date": "2026-06-28",
+      "count": 6
+    },
+    {
+      "date": "2026-06-29",
+      "count": 1
+    },
+    {
+      "date": "2026-06-30",
+      "count": 3
+    },
+    {
+      "date": "2026-07-01",
+      "count": 1
+    },
+    {
+      "date": "2026-07-02",
+      "count": 11
+    },
+    {
+      "date": "2026-07-03",
+      "count": 6
+    },
+    {
+      "date": "2026-07-04",
+      "count": 8
+    },
+    {
+      "date": "2026-07-05",
+      "count": 9
+    },
+    {
+      "date": "2026-07-06",
+      "count": 21
+    },
+    {
+      "date": "2026-07-07",
+      "count": 15
+    },
+    {
+      "date": "2026-07-08",
+      "count": 37
+    },
+    {
+      "date": "2026-07-09",
+      "count": 44
+    },
+    {
+      "date": "2026-07-10",
+      "count": 57
+    },
+    {
+      "date": "2026-07-11",
+      "count": 65
+    },
+    {
+      "date": "2026-07-12",
+      "count": 576
+    },
+    {
+      "date": "2026-07-13",
+      "count": 181
+    },
+    {
+      "date": "2026-07-14",
+      "count": 13
+    },
+    {
+      "date": "2026-07-15",
+      "count": 12
+    },
+    {
+      "date": "2026-07-16",
+      "count": 2
+    },
+    {
+      "date": "2026-07-17",
+      "count": 5
+    },
+    {
+      "date": "2026-07-18",
+      "count": 3
+    },
+    {
+      "date": "2026-07-19",
+      "count": 2
+    },
+    {
+      "date": "2026-07-20",
+      "count": 4
+    }
+  ],
+  "daily_stats": [
+    {
+      "date": "2026-06-05",
+      "comment_count": 1,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0,
+      "heat_index": 1.0,
+      "change_rate": 0.0
+    },
+    {
+      "date": "2026-06-13",
+      "comment_count": 2,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0,
+      "heat_index": 3.2,
+      "change_rate": 100.0
+    },
+    {
+      "date": "2026-06-20",
+      "comment_count": 3,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 1,
+      "heat_index": 4.4,
+      "change_rate": 50.0
+    },
+    {
+      "date": "2026-06-21",
+      "comment_count": 5,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 3,
+      "heat_index": 5.8,
+      "change_rate": 66.7
+    },
+    {
+      "date": "2026-06-22",
+      "comment_count": 4,
+      "positive": 0,
+      "negative": 3,
+      "neutral": 1,
+      "heat_index": 10.54,
+      "change_rate": -20.0
+    },
+    {
+      "date": "2026-06-25",
+      "comment_count": 8,
+      "positive": 1,
+      "negative": 3,
+      "neutral": 4,
+      "heat_index": 35.4,
+      "change_rate": 100.0
+    },
+    {
+      "date": "2026-06-26",
+      "comment_count": 73,
+      "positive": 11,
+      "negative": 41,
+      "neutral": 21,
+      "heat_index": 490.7,
+      "change_rate": 300.0
+    },
+    {
+      "date": "2026-06-27",
+      "comment_count": 10,
+      "positive": 1,
+      "negative": 4,
+      "neutral": 5,
+      "heat_index": 13.540000000000001,
+      "change_rate": -86.3
+    },
+    {
+      "date": "2026-06-28",
+      "comment_count": 6,
+      "positive": 1,
+      "negative": 3,
+      "neutral": 2,
+      "heat_index": 7.0,
+      "change_rate": -40.0
+    },
+    {
+      "date": "2026-06-29",
+      "comment_count": 1,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0,
+      "heat_index": 1.8,
+      "change_rate": -83.3
+    },
+    {
+      "date": "2026-06-30",
+      "comment_count": 3,
+      "positive": 0,
+      "negative": 3,
+      "neutral": 0,
+      "heat_index": 5.2,
+      "change_rate": 200.0
+    },
+    {
+      "date": "2026-07-01",
+      "comment_count": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0,
+      "heat_index": 1.4,
+      "change_rate": -66.7
+    },
+    {
+      "date": "2026-07-02",
+      "comment_count": 11,
+      "positive": 2,
+      "negative": 6,
+      "neutral": 3,
+      "heat_index": 31.34,
+      "change_rate": 300.0
+    },
+    {
+      "date": "2026-07-03",
+      "comment_count": 6,
+      "positive": 2,
+      "negative": 3,
+      "neutral": 1,
+      "heat_index": 16.6,
+      "change_rate": -45.5
+    },
+    {
+      "date": "2026-07-04",
+      "comment_count": 8,
+      "positive": 1,
+      "negative": 3,
+      "neutral": 4,
+      "heat_index": 5903.799999999999,
+      "change_rate": 33.3
+    },
+    {
+      "date": "2026-07-05",
+      "comment_count": 9,
+      "positive": 2,
+      "negative": 4,
+      "neutral": 3,
+      "heat_index": 15688.2,
+      "change_rate": 12.5
+    },
+    {
+      "date": "2026-07-06",
+      "comment_count": 21,
+      "positive": 4,
+      "negative": 10,
+      "neutral": 7,
+      "heat_index": 24389.0,
+      "change_rate": 133.3
+    },
+    {
+      "date": "2026-07-07",
+      "comment_count": 15,
+      "positive": 5,
+      "negative": 7,
+      "neutral": 3,
+      "heat_index": 19658.0,
+      "change_rate": -28.6
+    },
+    {
+      "date": "2026-07-08",
+      "comment_count": 37,
+      "positive": 11,
+      "negative": 21,
+      "neutral": 5,
+      "heat_index": 33107.32,
+      "change_rate": 146.7
+    },
+    {
+      "date": "2026-07-09",
+      "comment_count": 44,
+      "positive": 9,
+      "negative": 24,
+      "neutral": 11,
+      "heat_index": 28369.32,
+      "change_rate": 18.9
+    },
+    {
+      "date": "2026-07-10",
+      "comment_count": 57,
+      "positive": 5,
+      "negative": 35,
+      "neutral": 17,
+      "heat_index": 57894.4,
+      "change_rate": 29.5
+    },
+    {
+      "date": "2026-07-11",
+      "comment_count": 65,
+      "positive": 18,
+      "negative": 24,
+      "neutral": 23,
+      "heat_index": 41524.92,
+      "change_rate": 14.0
+    },
+    {
+      "date": "2026-07-12",
+      "comment_count": 576,
+      "positive": 94,
+      "negative": 256,
+      "neutral": 226,
+      "heat_index": 82305.68000000001,
+      "change_rate": 300.0
+    },
+    {
+      "date": "2026-07-13",
+      "comment_count": 181,
+      "positive": 24,
+      "negative": 75,
+      "neutral": 82,
+      "heat_index": 41353.06,
+      "change_rate": -68.6
+    },
+    {
+      "date": "2026-07-14",
+      "comment_count": 13,
+      "positive": 4,
+      "negative": 5,
+      "neutral": 4,
+      "heat_index": 28789.260000000002,
+      "change_rate": -92.8
+    },
+    {
+      "date": "2026-07-15",
+      "comment_count": 12,
+      "positive": 3,
+      "negative": 5,
+      "neutral": 4,
+      "heat_index": 31404.4,
+      "change_rate": -7.7
+    },
+    {
+      "date": "2026-07-16",
+      "comment_count": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1,
+      "heat_index": 2108.6,
+      "change_rate": -83.3
+    },
+    {
+      "date": "2026-07-17",
+      "comment_count": 5,
+      "positive": 2,
+      "negative": 1,
+      "neutral": 2,
+      "heat_index": 10206.4,
+      "change_rate": 150.0
+    },
+    {
+      "date": "2026-07-18",
+      "comment_count": 3,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 1,
+      "heat_index": 4723.86,
+      "change_rate": -40.0
+    },
+    {
+      "date": "2026-07-19",
+      "comment_count": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1,
+      "heat_index": 9866.4,
+      "change_rate": -33.3
+    },
+    {
+      "date": "2026-07-20",
+      "comment_count": 4,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 2,
+      "heat_index": 13101.34,
+      "change_rate": 100.0
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "台风",
+      "score": 40.2467
+    },
+    {
+      "keyword": "doge",
+      "score": 26.5365
+    },
+    {
+      "keyword": "回复",
+      "score": 25.8982
+    },
+    {
+      "keyword": "巴威",
+      "score": 20.522
+    },
+    {
+      "keyword": "真的",
+      "score": 19.2802
+    },
+    {
+      "keyword": "登陆",
+      "score": 18.4002
+    },
+    {
+      "keyword": "吃瓜",
+      "score": 17.6756
+    },
+    {
+      "keyword": "什么",
+      "score": 15.7979
+    },
+    {
+      "keyword": "感觉",
+      "score": 15.4617
+    },
+    {
+      "keyword": "平台",
+      "score": 14.6823
+    },
+    {
+      "keyword": "工作室",
+      "score": 14.5915
+    },
+    {
+      "keyword": "一个",
+      "score": 14.4044
+    },
+    {
+      "keyword": "鹿晗",
+      "score": 14.0898
+    },
+    {
+      "keyword": "怎么",
+      "score": 12.9785
+    },
+    {
+      "keyword": "刑拘",
+      "score": 12.9399
+    },
+    {
+      "keyword": "外卖",
+      "score": 12.8484
+    },
+    {
+      "keyword": "幽灵",
+      "score": 12.7139
+    },
+    {
+      "keyword": "猪笼",
+      "score": 12.1605
+    },
+    {
+      "keyword": "现在",
+      "score": 11.7989
+    },
+    {
+      "keyword": "已经",
+      "score": 11.5978
+    }
+  ],
+  "sentiment_summary": {
+    "positive": 241,
+    "negative": 728,
+    "neutral": 540
+  },
+  "heat_index_summary": {
+    "avg_heat_index": 299.14,
+    "max_heat_index": 6049.4
+  },
+  "platform_distribution": {
+    "bilibili": 1023,
+    "weibo": 366,
+    "toutiao": 30,
+    "xiaohongshu": 90
+  },
+  "events": [
+    {
+      "keyword": "台风巴威登陆",
+      "event_title": "超强台风\"巴威\"登陆浙江引发多省洪涝灾害与谣言治理风波",
+      "total_comments": 797,
+      "positive": 125,
+      "negative": 329,
+      "neutral": 343,
+      "platform_distribution": {
+        "xiaohongshu": 18,
+        "weibo": 80,
+        "bilibili": 693,
+        "toutiao": 6
+      },
+      "top_keywords": [
+        {
+          "keyword": "台风",
+          "score": 33.6439
+        },
+        {
+          "keyword": "巴威",
+          "score": 17.7755
+        },
+        {
+          "keyword": "doge",
+          "score": 16.9221
+        },
+        {
+          "keyword": "登陆",
+          "score": 15.8859
+        },
+        {
+          "keyword": "感觉",
+          "score": 13.5929
+        },
+        {
+          "keyword": "浙江",
+          "score": 9.6066
+        },
+        {
+          "keyword": "已经",
+          "score": 8.8504
+        },
+        {
+          "keyword": "拉完",
+          "score": 8.2589
+        },
+        {
+          "keyword": "现在",
+          "score": 8.0909
+        },
+        {
+          "keyword": "温州",
+          "score": 7.9006
+        }
+      ],
+      "risk_level": "high"
+    },
+    {
+      "keyword": "幽灵外卖平台被罚",
+      "event_title": "市场监管总局对\"幽灵外卖\"重拳出击，7家平台被罚35.97亿元",
+      "total_comments": 163,
+      "positive": 29,
+      "negative": 85,
+      "neutral": 49,
+      "platform_distribution": {
+        "bilibili": 45,
+        "xiaohongshu": 18,
+        "weibo": 94,
+        "toutiao": 6
+      },
+      "top_keywords": [
+        {
+          "keyword": "外卖",
+          "score": 8.5054
+        },
+        {
+          "keyword": "幽灵",
+          "score": 8.4947
+        },
+        {
+          "keyword": "平台",
+          "score": 8.4912
+        },
+        {
+          "keyword": "回复",
+          "score": 5.9792
+        },
+        {
+          "keyword": "doge",
+          "score": 3.0581
+        },
+        {
+          "keyword": "什么",
+          "score": 2.7114
+        },
+        {
+          "keyword": "直接",
+          "score": 2.6824
+        },
+        {
+          "keyword": "真的",
+          "score": 2.489
+        },
+        {
+          "keyword": "多多",
+          "score": 2.4465
+        },
+        {
+          "keyword": "超时",
+          "score": 2.4366
+        }
+      ],
+      "risk_level": "high"
+    },
+    {
+      "keyword": "摆拍浸猪笼被刑拘",
+      "event_title": "湖南汨罗\"摆拍浸猪笼\"事件策划者被刑拘，低俗摆拍整治升级",
+      "total_comments": 206,
+      "positive": 28,
+      "negative": 120,
+      "neutral": 58,
+      "platform_distribution": {
+        "bilibili": 105,
+        "weibo": 77,
+        "xiaohongshu": 18,
+        "toutiao": 6
+      },
+      "top_keywords": [
+        {
+          "keyword": "刑拘",
+          "score": 9.272
+        },
+        {
+          "keyword": "猪笼",
+          "score": 8.4677
+        },
+        {
+          "keyword": "回复",
+          "score": 5.9453
+        },
+        {
+          "keyword": "流量",
+          "score": 5.1574
+        },
+        {
+          "keyword": "真的",
+          "score": 4.0982
+        },
+        {
+          "keyword": "doge",
+          "score": 3.9564
+        },
+        {
+          "keyword": "吃瓜",
+          "score": 3.6889
+        },
+        {
+          "keyword": "应该",
+          "score": 3.5835
+        },
+        {
+          "keyword": "一看",
+          "score": 3.5019
+        },
+        {
+          "keyword": "这样",
+          "score": 3.1799
+        }
+      ],
+      "risk_level": "medium"
+    },
+    {
+      "keyword": "热搜泛娱乐化争议",
+      "event_title": "主流媒体集体发声：公共议题应从娱乐八卦手中夺回热搜C位",
+      "total_comments": 183,
+      "positive": 34,
+      "negative": 99,
+      "neutral": 50,
+      "platform_distribution": {
+        "bilibili": 135,
+        "toutiao": 6,
+        "xiaohongshu": 18,
+        "weibo": 24
+      },
+      "top_keywords": [
+        {
+          "keyword": "娱乐",
+          "score": 7.4464
+        },
+        {
+          "keyword": "争议",
+          "score": 7.4419
+        },
+        {
+          "keyword": "搜泛",
+          "score": 7.4419
+        },
+        {
+          "keyword": "doge",
+          "score": 4.3894
+        },
+        {
+          "keyword": "一个",
+          "score": 3.3786
+        },
+        {
+          "keyword": "深空",
+          "score": 3.2282
+        },
+        {
+          "keyword": "真的",
+          "score": 3.0023
+        },
+        {
+          "keyword": "吃瓜",
+          "score": 2.8673
+        },
+        {
+          "keyword": "什么",
+          "score": 2.7655
+        },
+        {
+          "keyword": "加油",
+          "score": 2.4858
+        }
+      ],
+      "risk_level": "medium"
+    },
+    {
+      "keyword": "鹿晗工作室被踢出超话",
+      "event_title": "鹿晗粉丝将工作室\"踢出超话\"引爆内娱粉丝治理争议",
+      "total_comments": 160,
+      "positive": 25,
+      "negative": 95,
+      "neutral": 40,
+      "platform_distribution": {
+        "bilibili": 45,
+        "toutiao": 6,
+        "weibo": 91,
+        "xiaohongshu": 18
+      },
+      "top_keywords": [
+        {
+          "keyword": "工作室",
+          "score": 9.7864
+        },
+        {
+          "keyword": "鹿晗",
+          "score": 9.0932
+        },
+        {
+          "keyword": "出超",
+          "score": 7.3464
+        },
+        {
+          "keyword": "回复",
+          "score": 7.3193
+        },
+        {
+          "keyword": "真的",
+          "score": 5.1531
+        },
+        {
+          "keyword": "粉丝",
+          "score": 4.7806
+        },
+        {
+          "keyword": "什么",
+          "score": 4.1009
+        },
+        {
+          "keyword": "吃瓜",
+          "score": 3.1736
+        },
+        {
+          "keyword": "人家",
+          "score": 3.0913
+        },
+        {
+          "keyword": "怎么",
+          "score": 2.5413
+        }
+      ],
+      "risk_level": "medium"
+    }
+  ],
+  "ml_discovered_events": [
+    {
+      "cluster_id": 0,
+      "event_title": "聚类事件: 台风、doge、吃瓜相关舆情",
+      "total_comments": 1195,
+      "positive": 188,
+      "negative": 582,
+      "neutral": 425,
+      "platform_distribution": {
+        "bilibili": 938,
+        "weibo": 217,
+        "toutiao": 12,
+        "xiaohongshu": 28
+      },
+      "top_keywords": [
+        {
+          "keyword": "台风",
+          "score": 0.0424
+        },
+        {
+          "keyword": "doge",
+          "score": 0.0355
+        },
+        {
+          "keyword": "吃瓜",
+          "score": 0.0198
+        },
+        {
+          "keyword": "感觉",
+          "score": 0.0174
+        },
+        {
+          "keyword": "什么",
+          "score": 0.015
+        },
+        {
+          "keyword": "现在",
+          "score": 0.014
+        },
+        {
+          "keyword": "这么",
+          "score": 0.0137
+        },
+        {
+          "keyword": "已经",
+          "score": 0.0133
+        }
+      ],
+      "cluster_size_ratio": 0.792
+    },
+    {
+      "cluster_id": 4,
+      "event_title": "聚类事件: 真的、平台、幽灵相关舆情",
+      "total_comments": 97,
+      "positive": 17,
+      "negative": 54,
+      "neutral": 26,
+      "platform_distribution": {
+        "bilibili": 26,
+        "weibo": 39,
+        "toutiao": 6,
+        "xiaohongshu": 26
+      },
+      "top_keywords": [
+        {
+          "keyword": "真的",
+          "score": 0.1976
+        },
+        {
+          "keyword": "平台",
+          "score": 0.1749
+        },
+        {
+          "keyword": "幽灵",
+          "score": 0.15
+        },
+        {
+          "keyword": "外卖",
+          "score": 0.1362
+        },
+        {
+          "keyword": "姐妹",
+          "score": 0.0293
+        },
+        {
+          "keyword": "关于",
+          "score": 0.0292
+        },
+        {
+          "keyword": "视频",
+          "score": 0.0286
+        },
+        {
+          "keyword": "应该",
+          "score": 0.0269
+        }
+      ],
+      "cluster_size_ratio": 0.064
+    },
+    {
+      "cluster_id": 2,
+      "event_title": "聚类事件: 巴威、登陆、台风相关舆情",
+      "total_comments": 90,
+      "positive": 18,
+      "negative": 35,
+      "neutral": 37,
+      "platform_distribution": {
+        "bilibili": 52,
+        "weibo": 14,
+        "toutiao": 6,
+        "xiaohongshu": 18
+      },
+      "top_keywords": [
+        {
+          "keyword": "巴威",
+          "score": 0.3134
+        },
+        {
+          "keyword": "登陆",
+          "score": 0.1932
+        },
+        {
+          "keyword": "台风",
+          "score": 0.1201
+        },
+        {
+          "keyword": "一个",
+          "score": 0.0346
+        },
+        {
+          "keyword": "真的",
+          "score": 0.0345
+        },
+        {
+          "keyword": "关于",
+          "score": 0.0236
+        },
+        {
+          "keyword": "doge",
+          "score": 0.0203
+        },
+        {
+          "keyword": "捂脸",
+          "score": 0.0199
+        }
+      ],
+      "cluster_size_ratio": 0.06
+    },
+    {
+      "cluster_id": 3,
+      "event_title": "聚类事件: 回复、日本、养生相关舆情",
+      "total_comments": 78,
+      "positive": 7,
+      "negative": 32,
+      "neutral": 39,
+      "platform_distribution": {
+        "weibo": 78
+      },
+      "top_keywords": [
+        {
+          "keyword": "回复",
+          "score": 0.6196
+        },
+        {
+          "keyword": "日本",
+          "score": 0.0316
+        },
+        {
+          "keyword": "养生",
+          "score": 0.0265
+        },
+        {
+          "keyword": "独处",
+          "score": 0.0265
+        },
+        {
+          "keyword": "等于",
+          "score": 0.0259
+        },
+        {
+          "keyword": "这么",
+          "score": 0.0256
+        },
+        {
+          "keyword": "真的",
+          "score": 0.023
+        },
+        {
+          "keyword": "大自然",
+          "score": 0.0224
+        }
+      ],
+      "cluster_size_ratio": 0.052
+    },
+    {
+      "cluster_id": 1,
+      "event_title": "聚类事件: 工作室、鹿晗、出超相关舆情",
+      "total_comments": 49,
+      "positive": 11,
+      "negative": 25,
+      "neutral": 13,
+      "platform_distribution": {
+        "bilibili": 7,
+        "weibo": 18,
+        "toutiao": 6,
+        "xiaohongshu": 18
+      },
+      "top_keywords": [
+        {
+          "keyword": "工作室",
+          "score": 0.3652
+        },
+        {
+          "keyword": "鹿晗",
+          "score": 0.2579
+        },
+        {
+          "keyword": "出超",
+          "score": 0.219
+        },
+        {
+          "keyword": "关于",
+          "score": 0.0411
+        },
+        {
+          "keyword": "什么",
+          "score": 0.0407
+        },
+        {
+          "keyword": "一个",
+          "score": 0.0353
+        },
+        {
+          "keyword": "加油",
+          "score": 0.0308
+        },
+        {
+          "keyword": "真的",
+          "score": 0.0306
+        }
+      ],
+      "cluster_size_ratio": 0.032
+    }
+  ],
+  "enhanced_events": [
+    {
+      "keyword": "台风巴威登陆",
+      "event_title": "关键词事件: 台风巴威登陆",
+      "total_comments": 797,
+      "positive": 125,
+      "negative": 329,
+      "neutral": 343,
+      "platform_distribution": {
+        "xiaohongshu": 18,
+        "weibo": 80,
+        "bilibili": 693,
+        "toutiao": 6
+      },
+      "top_keywords": [
+        {
+          "keyword": "台风",
+          "score": 33.6439
+        },
+        {
+          "keyword": "巴威",
+          "score": 17.7755
+        },
+        {
+          "keyword": "doge",
+          "score": 16.9221
+        },
+        {
+          "keyword": "登陆",
+          "score": 15.8859
+        },
+        {
+          "keyword": "感觉",
+          "score": 13.5929
+        },
+        {
+          "keyword": "浙江",
+          "score": 9.6066
+        },
+        {
+          "keyword": "已经",
+          "score": 8.8504
+        },
+        {
+          "keyword": "拉完",
+          "score": 8.2589
+        },
+        {
+          "keyword": "现在",
+          "score": 8.0909
+        },
+        {
+          "keyword": "温州",
+          "score": 7.9006
+        }
+      ]
+    },
+    {
+      "keyword": "幽灵外卖平台被罚",
+      "event_title": "关键词事件: 幽灵外卖平台被罚",
+      "total_comments": 163,
+      "positive": 29,
+      "negative": 85,
+      "neutral": 49,
+      "platform_distribution": {
+        "bilibili": 45,
+        "xiaohongshu": 18,
+        "weibo": 94,
+        "toutiao": 6
+      },
+      "top_keywords": [
+        {
+          "keyword": "外卖",
+          "score": 8.5054
+        },
+        {
+          "keyword": "幽灵",
+          "score": 8.4947
+        },
+        {
+          "keyword": "平台",
+          "score": 8.4912
+        },
+        {
+          "keyword": "回复",
+          "score": 5.9792
+        },
+        {
+          "keyword": "doge",
+          "score": 3.0581
+        },
+        {
+          "keyword": "什么",
+          "score": 2.7114
+        },
+        {
+          "keyword": "直接",
+          "score": 2.6824
+        },
+        {
+          "keyword": "真的",
+          "score": 2.489
+        },
+        {
+          "keyword": "多多",
+          "score": 2.4465
+        },
+        {
+          "keyword": "超时",
+          "score": 2.4366
+        }
+      ]
+    },
+    {
+      "keyword": "摆拍浸猪笼被刑拘",
+      "event_title": "关键词事件: 摆拍浸猪笼被刑拘",
+      "total_comments": 206,
+      "positive": 28,
+      "negative": 120,
+      "neutral": 58,
+      "platform_distribution": {
+        "bilibili": 105,
+        "weibo": 77,
+        "xiaohongshu": 18,
+        "toutiao": 6
+      },
+      "top_keywords": [
+        {
+          "keyword": "刑拘",
+          "score": 9.272
+        },
+        {
+          "keyword": "猪笼",
+          "score": 8.4677
+        },
+        {
+          "keyword": "回复",
+          "score": 5.9453
+        },
+        {
+          "keyword": "流量",
+          "score": 5.1574
+        },
+        {
+          "keyword": "真的",
+          "score": 4.0982
+        },
+        {
+          "keyword": "doge",
+          "score": 3.9564
+        },
+        {
+          "keyword": "吃瓜",
+          "score": 3.6889
+        },
+        {
+          "keyword": "应该",
+          "score": 3.5835
+        },
+        {
+          "keyword": "一看",
+          "score": 3.5019
+        },
+        {
+          "keyword": "这样",
+          "score": 3.1799
+        }
+      ]
+    },
+    {
+      "keyword": "热搜泛娱乐化争议",
+      "event_title": "关键词事件: 热搜泛娱乐化争议",
+      "total_comments": 183,
+      "positive": 34,
+      "negative": 99,
+      "neutral": 50,
+      "platform_distribution": {
+        "bilibili": 135,
+        "toutiao": 6,
+        "xiaohongshu": 18,
+        "weibo": 24
+      },
+      "top_keywords": [
+        {
+          "keyword": "娱乐",
+          "score": 7.4464
+        },
+        {
+          "keyword": "争议",
+          "score": 7.4419
+        },
+        {
+          "keyword": "搜泛",
+          "score": 7.4419
+        },
+        {
+          "keyword": "doge",
+          "score": 4.3894
+        },
+        {
+          "keyword": "一个",
+          "score": 3.3786
+        },
+        {
+          "keyword": "深空",
+          "score": 3.2282
+        },
+        {
+          "keyword": "真的",
+          "score": 3.0023
+        },
+        {
+          "keyword": "吃瓜",
+          "score": 2.8673
+        },
+        {
+          "keyword": "什么",
+          "score": 2.7655
+        },
+        {
+          "keyword": "加油",
+          "score": 2.4858
+        }
+      ]
+    },
+    {
+      "keyword": "鹿晗工作室被踢出超话",
+      "event_title": "关键词事件: 鹿晗工作室被踢出超话",
+      "total_comments": 160,
+      "positive": 25,
+      "negative": 95,
+      "neutral": 40,
+      "platform_distribution": {
+        "bilibili": 45,
+        "toutiao": 6,
+        "weibo": 91,
+        "xiaohongshu": 18
+      },
+      "top_keywords": [
+        {
+          "keyword": "工作室",
+          "score": 9.7864
+        },
+        {
+          "keyword": "鹿晗",
+          "score": 9.0932
+        },
+        {
+          "keyword": "出超",
+          "score": 7.3464
+        },
+        {
+          "keyword": "回复",
+          "score": 7.3193
+        },
+        {
+          "keyword": "真的",
+          "score": 5.1531
+        },
+        {
+          "keyword": "粉丝",
+          "score": 4.7806
+        },
+        {
+          "keyword": "什么",
+          "score": 4.1009
+        },
+        {
+          "keyword": "吃瓜",
+          "score": 3.1736
+        },
+        {
+          "keyword": "人家",
+          "score": 3.0913
+        },
+        {
+          "keyword": "怎么",
+          "score": 2.5413
+        }
+      ]
+    }
+  ],
+  "credibility": {
+    "summary": {
+      "total": 500,
+      "trusted": 228,
+      "suspicious": 240,
+      "high_risk": 32,
+      "avg_credibility": 66.5,
+      "trusted_ratio": 45.6,
+      "high_risk_ratio": 6.4
+    },
+    "samples": [
+      {
+        "credibility": 52.0,
+        "verdict": "存疑",
+        "risk_factors": [
+          "内容模糊，无法验证真实性",
+          "使用成语'三人成虎'暗示谣言传播，但未提供具体事实依据",
+          "文本情绪化，缺乏客观证据",
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 30.0,
+        "reasoning": "文本以反问和成语表达对某种恐慌的质疑，但未提供任何可核实的信息或来源，属于主观情绪表达，可信度低。",
+        "comment_id": "305769143409",
+        "text_preview": "风没见到，雨也没见到，不知道在怕啥？三人成虎"
+      },
+      {
+        "credibility": 85.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 85.0,
+        "reasoning": "文本表达个人感受，未包含具体虚假信息或误导性内容，属于主观观点。",
+        "comment_id": "305766009953",
+        "text_preview": "我觉得真是奇怪，一切如常，难道不应该庆幸吗，背后有多少人做了防备工作。多少人彻夜值守。"
+      },
+      {
+        "credibility": 85.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 85.0,
+        "reasoning": "文本表达个人对台风题材重复的观感，属于主观意见，无虚假信息。",
+        "comment_id": "305790805169",
+        "text_preview": "非要这样去拍吗，玉环、温岭一带年年都有台风，导演都不带改剧本的看着都疲劳"
+      },
+      {
+        "credibility": 60.0,
+        "verdict": "存疑",
+        "risk_factors": [
+          "表情符号可能暗示反讽或非严肃态度",
+          "文本过短，信息量不足",
+          "缺乏具体信息",
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 75.0,
+        "llm_score": 50.0,
+        "reasoning": "文本简短且包含表情符号，可能为调侃或非正式表达，无法确认事实依据。",
+        "comment_id": "308955069616",
+        "text_preview": "还得是桑美[doge]"
+      },
+      {
+        "credibility": 91.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 95.0,
+        "reasoning": "该文本表达了对浙江同胞的关心和良好祝愿，内容中性且无具体事实陈述，不涉及虚假信息风险。",
+        "comment_id": "305866297521",
+        "text_preview": "浙江同胞都平安就好。希望沒有大災難"
+      },
+      {
+        "credibility": 83.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "情感表达过于极端",
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 80.0,
+        "llm_score": 85.0,
+        "reasoning": "文本表达个人对台风和暴雨洪水的感受，属于主观情绪描述，无虚假信息或误导性内容。",
+        "comment_id": "305779429153",
+        "text_preview": "现在看纯台风，反而没那么可怕了，反而是广西那种台风加暴雨！！洪水的更可怕！！[大哭][大哭][大哭][大哭][大哭]"
+      },
+      {
+        "credibility": 85.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 85.0,
+        "reasoning": "文本描述个人观察感受，无具体虚假信息或误导性内容，属于主观体验报道。",
+        "comment_id": "305742931569",
+        "text_preview": "看到台风眼过玉环的记者报道了，好神奇，好安静。"
+      },
+      {
+        "credibility": 81.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏明确信息来源，使用模糊/传闻表述",
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 75.0,
+        "llm_score": 85.0,
+        "reasoning": "文本为个人对台风路径的日常推测，语气平和，未包含明显虚假或极端信息，符合常识。",
+        "comment_id": "305930711489",
+        "text_preview": "我仙人，我这还是比较平静的，我听说巴威不会来到我们西安，但是有可能会发生雨（大雨）"
+      },
+      {
+        "credibility": 91.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 95.0,
+        "reasoning": "文本以幽默方式提醒台风天张嘴可能吃到异物，如树叶或蟑螂，符合常识且无虚假信息，可信度高。",
+        "comment_id": "305744535313",
+        "text_preview": "如果台风天在外头的话，尽量不要张嘴了，走着你可能吃到一个飞来的树叶[doge]蟑螂也有可能"
+      },
+      {
+        "credibility": 52.0,
+        "verdict": "存疑",
+        "risk_factors": [
+          "攻击媒体但未提供事实依据",
+          "缺乏具体证据",
+          "情绪化表达",
+          "包含侮辱性语言",
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 30.0,
+        "reasoning": "文本使用粗俗词汇和情绪化指责，未提供具体数据或来源支持其观点，属于主观宣泄而非客观分析。",
+        "comment_id": "308988473728",
+        "text_preview": "第一吹JB 网红台风……登陆之前强度已经降低了，还是有很多媒体夸大其词的博流量，真恶心"
+      },
+      {
+        "credibility": 88.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 90.0,
+        "reasoning": "文本为个人对快递状态的询问，未包含虚假信息或误导性内容，属于正常生活交流。",
+        "comment_id": "309099068304",
+        "text_preview": "台州现在快递正常了吗？不知道买的东西什么时候发货[笑哭]"
+      },
+      {
+        "credibility": 60.0,
+        "verdict": "存疑",
+        "risk_factors": [
+          "文本内容仅为表情符号，缺乏实质信息",
+          "无法验证其真实性或来源",
+          "文本过短，信息量不足",
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 75.0,
+        "llm_score": 50.0,
+        "reasoning": "文本仅包含一个表情符号，没有提供任何可评估的事实或主张，因此无法判断其可信度。",
+        "comment_id": "308955162384",
+        "text_preview": "[doge]"
+      },
+      {
+        "credibility": 52.0,
+        "verdict": "存疑",
+        "risk_factors": [
+          "情绪化表达（'不得了了'）",
+          "缺乏具体证据或来源",
+          "观察与描述矛盾（声称风雨大但树枝不动）",
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 30.0,
+        "reasoning": "文本描述存在明显矛盾，且带有讽刺情绪，缺乏客观依据，可信度较低。",
+        "comment_id": "305806498993",
+        "text_preview": "有个5级风 不得了了 。。。。。。装的风雨那么大 ，旁边的树枝都不动一下 。还是搞新闻的有本事"
+      },
+      {
+        "credibility": 85.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 85.0,
+        "reasoning": "该文本是对记者口齿清晰度的主观评价，不涉及事实性虚假信息，属于个人观点表达。",
+        "comment_id": "305744770753",
+        "text_preview": "记者口条真好，这样还能听清再说什么"
+      },
+      {
+        "credibility": 91.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 95.0,
+        "reasoning": "文本为个人邀请，语气轻松，无虚假信息特征，内容合理。",
+        "comment_id": "308938738864",
+        "text_preview": "难得关注玉环的时候[doge]希望大家11月来我们这尝尝微酸微甜的大文旦[doge]"
+      },
+      {
+        "credibility": 36.0,
+        "verdict": "高风险",
+        "risk_factors": [
+          "文本过短，信息量不足",
+          "缺乏具体上下文和来源",
+          "表述模糊且可能误导",
+          "与常识相悖（台风天应避免外出）",
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 75.0,
+        "llm_score": 10.0,
+        "reasoning": "该表述未提供任何具体事件、时间或地点，且与台风天安全常识严重冲突，极易被误解或用于传播不实信息。",
+        "comment_id": "308963831872",
+        "text_preview": "台风照样得出去"
+      },
+      {
+        "credibility": 85.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 85.0,
+        "reasoning": "用户基于个人经历描述，未涉及虚假信息或夸大事实，仅表达主观感受和当地停电情况。",
+        "comment_id": "305761202337",
+        "text_preview": "没觉得严重，我就在玉环，烦人的就是停电了。。。"
+      },
+      {
+        "credibility": 91.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 95.0,
+        "reasoning": "文本描述个人观察天气现象，语气自然，无夸大或虚假信息，符合常识。",
+        "comment_id": "305762369585",
+        "text_preview": "早上起来一看，风没了，雨也没多大，地上连积水都没有，就跟平时下雨一样[笑哭]"
+      },
+      {
+        "credibility": 85.0,
+        "verdict": "可信",
+        "risk_factors": [
+          "缺乏具体数据支持",
+          "个人主观感受可能不全面",
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 85.0,
+        "llm_score": 85.0,
+        "reasoning": "文本表达个人观察和合理推测，无虚假信息，但主观性较强。",
+        "comment_id": "305744802305",
+        "text_preview": "我就在玉环的坎门风真没前几年的台风大，我相信经过这几年国家的整治这次的台风的损失相对会小很多"
+      },
+      {
+        "credibility": 60.0,
+        "verdict": "存疑",
+        "risk_factors": [
+          "文本过短，信息量不足",
+          "无法验证内容",
+          "缺乏具体信息",
+          "缺乏具体人物、时间、地点等可验证细节"
+        ],
+        "method": "hybrid",
+        "rule_score": 75.0,
+        "llm_score": 50.0,
+        "reasoning": "文本过于简短，未提供任何可验证的事实或细节，无法判断其真实性。",
+        "comment_id": "305814273265",
+        "text_preview": "没啥感觉"
+      }
+    ]
+  },
+  "propagation": {
+    "台风巴威登陆": {
+      "success": true,
+      "origin": {
+        "user_name": "人间清醒bot",
+        "platform": "xiaohongshu",
+        "content_preview": "救命🆘 台风巴威登陆这也太离谱了吧……真的无语了",
+        "time": "2026-07-10 01:25:00",
+        "source_id": "xhs_673089493191674",
+        "comment_id": "xhs_673089493191674",
+        "like_count": 3743
+      },
+      "amplifiers": [
+        {
+          "user_name": "夜空中最亮的星",
+          "platform": "weibo",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-10 05:48:46",
+          "like_count": 5574,
+          "reply_count": 284,
+          "content_preview": "又是台风巴威登陆，什么时候是个头"
+        },
+        {
+          "user_name": "梦想还是要有的",
+          "platform": "weibo",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-11 08:28:32",
+          "like_count": 6227,
+          "reply_count": 284,
+          "content_preview": "关于台风巴威登陆，总算有进展了[赞]"
+        },
+        {
+          "user_name": "左脚踩了右脚",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-11 21:37:41",
+          "like_count": 10,
+          "reply_count": 0,
+          "content_preview": "我去，风浪这么大！！还好组织撤离了"
+        },
+        {
+          "user_name": "爱莉姐最棒了",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-11 21:38:17",
+          "like_count": 54,
+          "reply_count": 16,
+          "content_preview": "蛐蛐台风，我避他锋芒？"
+        },
+        {
+          "user_name": "空-前-绝-后",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-11 21:39:22",
+          "like_count": 196,
+          "reply_count": 24,
+          "content_preview": "我家门口树已经断了五六棵了[笑哭]"
+        },
+        {
+          "user_name": "小鹤emo了",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-11 22:37:07",
+          "like_count": 114,
+          "reply_count": 16,
+          "content_preview": "刚刚停电了好吓人[惊讶]"
+        },
+        {
+          "user_name": "Void_Eruption",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-11 23:35:11",
+          "like_count": 5,
+          "reply_count": 0,
+          "content_preview": "前排，现在上海风大雨还行"
+        },
+        {
+          "user_name": "_MyGO_",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-11 23:37:22",
+          "like_count": 306,
+          "reply_count": 25,
+          "content_preview": "巴威登陆风力其实不算大吧 主要看降水会不会造成灾害"
+        },
+        {
+          "user_name": "门下左拾遗",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-11 23:37:38",
+          "like_count": 142,
+          "reply_count": 6,
+          "content_preview": "巴威已于23:20BJT在台州玉环登陆。"
+        },
+        {
+          "user_name": "狗子王Dogtor_Wang",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-11 23:38:51",
+          "like_count": 7,
+          "reply_count": 2,
+          "content_preview": "100公里外正在值班的我瑟瑟发抖[来古-疑问][来古-疑问][来古-疑问]"
+        }
+      ],
+      "path": {
+        "xiaohongshu": {
+          "total_posts": 18,
+          "first_post_time": "2026-07-10 01:25:00",
+          "top_users": [
+            {
+              "user_name": "小red书用户001",
+              "time": "2026-07-20 22:14:50",
+              "like_count": 7987,
+              "reply_count": 99,
+              "content_preview": "不敢说话了[捂脸] 台风巴威登陆懂的都懂……只能说很失望"
+            },
+            {
+              "user_name": "橙子味的夏天",
+              "time": "2026-07-19 15:13:25",
+              "like_count": 6251,
+              "reply_count": 163,
+              "content_preview": "已收藏✅ 台风巴威登陆这件事值得持续关注，加油！"
+            },
+            {
+              "user_name": "一只小可爱呀",
+              "time": "2026-07-20 20:54:12",
+              "like_count": 6051,
+              "reply_count": 740,
+              "content_preview": "蹲一个后续📌 台风巴威登陆，有姐妹了解吗？"
+            },
+            {
+              "user_name": "每天都在买买买",
+              "time": "2026-07-17 11:10:13",
+              "like_count": 5620,
+              "reply_count": 514,
+              "content_preview": "姐妹们！这个真的要支持[点赞] 台风巴威登陆，终于有人发声了"
+            },
+            {
+              "user_name": "小红薯Momo",
+              "time": "2026-07-15 03:59:26",
+              "like_count": 4781,
+              "reply_count": 315,
+              "content_preview": "理性讨论🔍 台风巴威登陆这件事，大家怎么看？"
+            }
+          ]
+        },
+        "weibo": {
+          "total_posts": 80,
+          "first_post_time": "2026-07-10 05:48:46",
+          "top_users": [
+            {
+              "user_name": "岁月静好",
+              "time": "2026-07-19 02:18:46",
+              "like_count": 9763,
+              "reply_count": 479,
+              "content_preview": "关于台风巴威登陆，等一个官方通报"
+            },
+            {
+              "user_name": "阳光灿烂的日子",
+              "time": "2026-07-20 23:31:36",
+              "like_count": 6596,
+              "reply_count": 745,
+              "content_preview": "#台风巴威登陆# 理性吃瓜[吃瓜]"
+            },
+            {
+              "user_name": "小确幸生活家",
+              "time": "2026-07-15 07:44:29",
+              "like_count": 6482,
+              "reply_count": 905,
+              "content_preview": "感谢大家的关注，#台风巴威登陆# 正在变好"
+            },
+            {
+              "user_name": "梦想还是要有的",
+              "time": "2026-07-11 08:28:32",
+              "like_count": 6227,
+              "reply_count": 284,
+              "content_preview": "关于台风巴威登陆，总算有进展了[赞]"
+            },
+            {
+              "user_name": "夜空中最亮的星",
+              "time": "2026-07-10 05:48:46",
+              "like_count": 5574,
+              "reply_count": 284,
+              "content_preview": "又是台风巴威登陆，什么时候是个头"
+            }
+          ]
+        },
+        "bilibili": {
+          "total_posts": 693,
+          "first_post_time": "2026-07-11 21:37:41",
+          "top_users": [
+            {
+              "user_name": "零下の273摄氏度",
+              "time": "2026-07-12 14:18:21",
+              "like_count": 4459,
+              "reply_count": 79,
+              "content_preview": "巴威登陆后证明，它就是一个小弱弱"
+            },
+            {
+              "user_name": "等一场旧时烟雨",
+              "time": "2026-07-12 00:14:33",
+              "like_count": 3707,
+              "reply_count": 84,
+              "content_preview": "台风过后注意安全[doge_金箍][doge_金箍]"
+            },
+            {
+              "user_name": "等一场旧时烟雨",
+              "time": "2026-07-12 00:12:33",
+              "like_count": 3627,
+              "reply_count": 82,
+              "content_preview": "这个点看中气爱的你是这个👍提前观看台风消息做好防护的还是这个👍👍关心其他省份同胞状况的你更是这个👍👍👍"
+            },
+            {
+              "user_name": "烟火下折纸鹤",
+              "time": "2026-07-12 00:11:25",
+              "like_count": 3074,
+              "reply_count": 27,
+              "content_preview": "追风小分队："
+            },
+            {
+              "user_name": "删不除",
+              "time": "2026-07-12 00:09:32",
+              "like_count": 2816,
+              "reply_count": 38,
+              "content_preview": "太平洋台风胚胎排队中，谁是下一个台风海神"
+            }
+          ]
+        },
+        "toutiao": {
+          "total_posts": 6,
+          "first_post_time": "2026-07-12 22:03:35",
+          "top_users": [
+            {
+              "user_name": "行者无疆",
+              "time": "2026-07-16 12:14:17",
+              "like_count": 2966,
+              "reply_count": 84,
+              "content_preview": "台风巴威登陆这件事暴露出很多深层次的问题。如果不从根本上解决，类似的事情还会再次发生。"
+            },
+            {
+              "user_name": "知无不言",
+              "time": "2026-07-14 21:10:25",
+              "like_count": 2174,
+              "reply_count": 176,
+              "content_preview": "关于台风巴威登陆事件，从目前的情况来看已经有了积极进展。希望相关部门和企业能够认真对待，给公众一个满意的答复。"
+            },
+            {
+              "user_name": "诚实守信人",
+              "time": "2026-07-18 19:53:02",
+              "like_count": 1999,
+              "reply_count": 112,
+              "content_preview": "台风巴威登陆这个事件确实值得深思。从某种程度上说，它是社会发展过程中必然会遇到的问题。"
+            },
+            {
+              "user_name": "知足常乐",
+              "time": "2026-07-12 22:03:35",
+              "like_count": 670,
+              "reply_count": 159,
+              "content_preview": "说实话，台风巴威登陆已经不是第一次发生了。每次都是雷声大雨点小，老百姓的权益谁来保障？"
+            },
+            {
+              "user_name": "清风明月",
+              "time": "2026-07-16 21:33:00",
+              "like_count": 343,
+              "reply_count": 219,
+              "content_preview": "关于台风巴威登陆事件，目前各方的说法还不完全一致。建议大家保持理性，等待权威部门的最终调查结果。"
+            }
+          ]
+        }
+      },
+      "timeline": [
+        {
+          "stage": "首次曝光",
+          "time": "2026-07-10 01:25:00",
+          "actor": "人间清醒bot"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-10 05:48:46",
+          "actor": "夜空中最亮的星"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-11 08:28:32",
+          "actor": "梦想还是要有的"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-11 21:37:41",
+          "actor": "左脚踩了右脚"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-11 21:38:17",
+          "actor": "爱莉姐最棒了"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-11 21:39:22",
+          "actor": "空-前-绝-后"
+        }
+      ],
+      "graph": {
+        "nodes": [
+          {
+            "id": "origin_人间清醒bot",
+            "name": "人间清醒bot",
+            "type": "origin",
+            "platform": "xiaohongshu",
+            "symbolSize": 40
+          },
+          {
+            "id": "amp_0_夜空中最亮的星",
+            "name": "夜空中最亮的星",
+            "type": "amplifier",
+            "platform": "weibo",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_1_梦想还是要有的",
+            "name": "梦想还是要有的",
+            "type": "amplifier",
+            "platform": "weibo",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_2_左脚踩了右脚",
+            "name": "左脚踩了右脚",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_3_爱莉姐最棒了",
+            "name": "爱莉姐最棒了",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_4_空-前-绝-后",
+            "name": "空-前-绝-后",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_5_小鹤emo了",
+            "name": "小鹤emo了",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_6_Void_Eruption",
+            "name": "Void_Eruption",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_7__MyGO_",
+            "name": "_MyGO_",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_8_门下左拾遗",
+            "name": "门下左拾遗",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_9_狗子王Dogtor_Wang",
+            "name": "狗子王Dogtor_Wang",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          }
+        ],
+        "edges": [
+          {
+            "source": "origin_人间清醒bot",
+            "target": "amp_0_夜空中最亮的星",
+            "label": "weibo转发"
+          },
+          {
+            "source": "origin_人间清醒bot",
+            "target": "amp_1_梦想还是要有的",
+            "label": "weibo转发"
+          },
+          {
+            "source": "origin_人间清醒bot",
+            "target": "amp_2_左脚踩了右脚",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_人间清醒bot",
+            "target": "amp_3_爱莉姐最棒了",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_人间清醒bot",
+            "target": "amp_4_空-前-绝-后",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_人间清醒bot",
+            "target": "amp_5_小鹤emo了",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_人间清醒bot",
+            "target": "amp_6_Void_Eruption",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_人间清醒bot",
+            "target": "amp_7__MyGO_",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_人间清醒bot",
+            "target": "amp_8_门下左拾遗",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_人间清醒bot",
+            "target": "amp_9_狗子王Dogtor_Wang",
+            "label": "bilibili转发"
+          }
+        ]
+      },
+      "summary": {
+        "total_platforms": 4,
+        "total_amplifiers": 10,
+        "has_media_intervention": false,
+        "propagation_depth": 6
+      }
+    },
+    "幽灵外卖平台被罚": {
+      "success": true,
+      "origin": {
+        "user_name": "熵减ss",
+        "platform": "bilibili",
+        "content_preview": "这样没有配送轨迹如果顾客说没收到餐容易判虚假送达吧",
+        "time": "2026-06-05 11:08:16",
+        "source_id": "BV1GT9JYEEjw",
+        "comment_id": "301665760017",
+        "like_count": 0
+      },
+      "amplifiers": [
+        {
+          "user_name": "熵减ss",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-05 11:08:16",
+          "like_count": 0,
+          "reply_count": 0,
+          "content_preview": "这样没有配送轨迹如果顾客说没收到餐容易判虚假送达吧"
+        },
+        {
+          "user_name": "石猴丶",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-20 22:17:06",
+          "like_count": 1,
+          "reply_count": 0,
+          "content_preview": "我已经被扣过了，那是申诉了一天，等下会扣了好久"
+        },
+        {
+          "user_name": "风流成性江小鱼",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-21 00:48:30",
+          "like_count": 0,
+          "reply_count": 0,
+          "content_preview": "扣分了限制接单"
+        },
+        {
+          "user_name": "佛系玩家ch",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-21 02:24:14",
+          "like_count": 1,
+          "reply_count": 5,
+          "content_preview": "[笑哭]快超时可以问顾客，同样就点不同意就不点"
+        },
+        {
+          "user_name": "踏夜横戈",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-21 16:07:54",
+          "like_count": 1,
+          "reply_count": 0,
+          "content_preview": "不要怕超时，不要怕超时，不要怕超时，平台算法看重的是完单率。就算养好分次次准时，也照样会被系统派垃圾单。超时根本对派单没太大影响，但是你也别每一单都超，跑个十几二十单有个一两单超时，屁事没有别放心上。"
+        },
+        {
+          "user_name": "一群大萝卜鸡",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-22 02:49:18",
+          "like_count": 3,
+          "reply_count": 2,
+          "content_preview": "昨天群里一个小伙子，在楼下点了送达，然后就被投诉没收到[笑哭]扣了五十[笑哭]"
+        },
+        {
+          "user_name": "弹幕捕诗人",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-22 12:18:46",
+          "like_count": 1,
+          "reply_count": 0,
+          "content_preview": "看情况，经常跑的人，这单超不超时心里有数，还有超时没那么严重[笑哭]"
+        },
+        {
+          "user_name": "喻文波比c",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-22 17:00:06",
+          "like_count": 3,
+          "reply_count": 0,
+          "content_preview": "距离太远不早点，不然申诉很麻烦。"
+        },
+        {
+          "user_name": "套你猴子R",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-22 20:41:05",
+          "like_count": 1,
+          "reply_count": 2,
+          "content_preview": "问题是平台怎么知道提前点送达[doge]"
+        },
+        {
+          "user_name": "谁在周边",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-25 15:30:32",
+          "like_count": 6,
+          "reply_count": 0,
+          "content_preview": "十几年前美团拼多多刚开始就有幽灵订单了。 十年前央视就曝过。 去年是彻底整治幽灵商家也就是幽灵门店"
+        }
+      ],
+      "path": {
+        "bilibili": {
+          "total_posts": 45,
+          "first_post_time": "2026-06-05 11:08:16",
+          "top_users": [
+            {
+              "user_name": "拖出去再閹",
+              "time": "2026-06-25 15:53:33",
+              "like_count": 35,
+              "reply_count": 0,
+              "content_preview": "遜爆了 去看一下葉素菲怎麼做的 開幾個空頭公司 互相假出貨做業績還能上市 撈了幾個億 沒幾年就出來享福了[doge]"
+            },
+            {
+              "user_name": "安逸733",
+              "time": "2026-07-02 18:37:54",
+              "like_count": 16,
+              "reply_count": 7,
+              "content_preview": "在这个模式开挂的话 应该不会被发现吧[doge][doge]"
+            },
+            {
+              "user_name": "谁在周边",
+              "time": "2026-06-25 15:30:32",
+              "like_count": 6,
+              "reply_count": 0,
+              "content_preview": "十几年前美团拼多多刚开始就有幽灵订单了。 十年前央视就曝过。 去年是彻底整治幽灵商家也就是幽灵门店"
+            },
+            {
+              "user_name": "歡愉的星神",
+              "time": "2026-06-26 12:31:19",
+              "like_count": 5,
+              "reply_count": 0,
+              "content_preview": "這是我了解台灣唯一的方式"
+            },
+            {
+              "user_name": "野生張起灵",
+              "time": "2026-07-02 22:21:39",
+              "like_count": 4,
+              "reply_count": 0,
+              "content_preview": "有毛用，这模式都是直接自雷一大把[doge]"
+            }
+          ]
+        },
+        "xiaohongshu": {
+          "total_posts": 18,
+          "first_post_time": "2026-07-05 20:00:34",
+          "top_users": [
+            {
+              "user_name": "打工人的日常",
+              "time": "2026-07-13 13:36:14",
+              "like_count": 7226,
+              "reply_count": 574,
+              "content_preview": "姐妹们！这个真的要支持[点赞] 幽灵外卖平台被罚，终于有人发声了"
+            },
+            {
+              "user_name": "打工人的日常",
+              "time": "2026-07-12 22:58:32",
+              "like_count": 7186,
+              "reply_count": 577,
+              "content_preview": "给小可爱们科普一下[向右R] 幽灵外卖平台被罚其实是这样……希望能帮到大家"
+            },
+            {
+              "user_name": "人间清醒bot",
+              "time": "2026-07-12 08:59:06",
+              "like_count": 6358,
+              "reply_count": 42,
+              "content_preview": "谁懂啊……幽灵外卖平台被罚这件事越想越气[哭惹R][哭惹R]"
+            },
+            {
+              "user_name": "好物挖掘机",
+              "time": "2026-07-12 21:42:26",
+              "like_count": 6314,
+              "reply_count": 91,
+              "content_preview": "有没有课代表总结一下幽灵外卖平台被罚来龙去脉？[皱眉R]"
+            },
+            {
+              "user_name": "奶茶重度患者",
+              "time": "2026-07-09 16:11:53",
+              "like_count": 6126,
+              "reply_count": 601,
+              "content_preview": "真的栓Q了[微笑] 幽灵外卖平台被罚，这个处理态度我真的会谢"
+            }
+          ]
+        },
+        "weibo": {
+          "total_posts": 94,
+          "first_post_time": "2026-07-06 01:04:07",
+          "top_users": [
+            {
+              "user_name": "城市漫游者",
+              "time": "2026-07-10 09:52:34",
+              "like_count": 9364,
+              "reply_count": 381,
+              "content_preview": "#幽灵外卖平台被罚# 忍不了了，必须给个说法"
+            },
+            {
+              "user_name": "梦想还是要有的",
+              "time": "2026-07-12 23:13:54",
+              "like_count": 8655,
+              "reply_count": 910,
+              "content_preview": "#幽灵外卖平台被罚# 太让人气愤了[怒]"
+            },
+            {
+              "user_name": "追风少年",
+              "time": "2026-07-07 18:04:25",
+              "like_count": 8568,
+              "reply_count": 529,
+              "content_preview": "#幽灵外卖平台被罚# 支持！希望妥善解决[加油]"
+            },
+            {
+              "user_name": "北方的狼",
+              "time": "2026-07-06 01:04:07",
+              "like_count": 7034,
+              "reply_count": 278,
+              "content_preview": "关于幽灵外卖平台被罚，等一个官方通报"
+            },
+            {
+              "user_name": "城市漫游者",
+              "time": "2026-07-08 01:27:00",
+              "like_count": 6520,
+              "reply_count": 518,
+              "content_preview": "关于幽灵外卖平台被罚，总算有进展了[赞]"
+            }
+          ]
+        },
+        "toutiao": {
+          "total_posts": 6,
+          "first_post_time": "2026-07-06 15:05:21",
+          "top_users": [
+            {
+              "user_name": "大海无边",
+              "time": "2026-07-07 20:50:07",
+              "like_count": 2651,
+              "reply_count": 115,
+              "content_preview": "关于幽灵外卖平台被罚事件，从目前的情况来看已经有了积极进展。希望相关部门和企业能够认真对待，给公众一个满意的答复。"
+            },
+            {
+              "user_name": "向阳花",
+              "time": "2026-07-15 01:06:45",
+              "like_count": 2433,
+              "reply_count": 228,
+              "content_preview": "幽灵外卖平台被罚这件事暴露出很多深层次的问题。如果不从根本上解决，类似的事情还会再次发生。"
+            },
+            {
+              "user_name": "知足常乐",
+              "time": "2026-07-06 15:05:21",
+              "like_count": 2408,
+              "reply_count": 298,
+              "content_preview": "说实话，幽灵外卖平台被罚已经不是第一次发生了。每次都是雷声大雨点小，老百姓的权益谁来保障？"
+            },
+            {
+              "user_name": "冷暖自知",
+              "time": "2026-07-13 11:52:26",
+              "like_count": 1876,
+              "reply_count": 6,
+              "content_preview": "作为长期关注幽灵外卖平台被罚的人，我认为这次的处理方式值得肯定。社会在进步，问题总会被解决。"
+            },
+            {
+              "user_name": "时光漫步者",
+              "time": "2026-07-09 19:30:06",
+              "like_count": 1081,
+              "reply_count": 196,
+              "content_preview": "关于幽灵外卖平台被罚事件，目前各方的说法还不完全一致。建议大家保持理性，等待权威部门的最终调查结果。"
+            }
+          ]
+        }
+      },
+      "timeline": [
+        {
+          "stage": "首次曝光",
+          "time": "2026-06-05 11:08:16",
+          "actor": "熵减ss"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-05 11:08:16",
+          "actor": "熵减ss"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-20 22:17:06",
+          "actor": "石猴丶"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-21 00:48:30",
+          "actor": "风流成性江小鱼"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-21 02:24:14",
+          "actor": "佛系玩家ch"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-21 16:07:54",
+          "actor": "踏夜横戈"
+        }
+      ],
+      "graph": {
+        "nodes": [
+          {
+            "id": "origin_熵减ss",
+            "name": "熵减ss",
+            "type": "origin",
+            "platform": "bilibili",
+            "symbolSize": 40
+          },
+          {
+            "id": "amp_0_熵减ss",
+            "name": "熵减ss",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_1_石猴丶",
+            "name": "石猴丶",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_2_风流成性江小鱼",
+            "name": "风流成性江小鱼",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_3_佛系玩家ch",
+            "name": "佛系玩家ch",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_4_踏夜横戈",
+            "name": "踏夜横戈",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_5_一群大萝卜鸡",
+            "name": "一群大萝卜鸡",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_6_弹幕捕诗人",
+            "name": "弹幕捕诗人",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_7_喻文波比c",
+            "name": "喻文波比c",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_8_套你猴子R",
+            "name": "套你猴子R",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_9_谁在周边",
+            "name": "谁在周边",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          }
+        ],
+        "edges": [
+          {
+            "source": "origin_熵减ss",
+            "target": "amp_0_熵减ss",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_熵减ss",
+            "target": "amp_1_石猴丶",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_熵减ss",
+            "target": "amp_2_风流成性江小鱼",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_熵减ss",
+            "target": "amp_3_佛系玩家ch",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_熵减ss",
+            "target": "amp_4_踏夜横戈",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_熵减ss",
+            "target": "amp_5_一群大萝卜鸡",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_熵减ss",
+            "target": "amp_6_弹幕捕诗人",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_熵减ss",
+            "target": "amp_7_喻文波比c",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_熵减ss",
+            "target": "amp_8_套你猴子R",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_熵减ss",
+            "target": "amp_9_谁在周边",
+            "label": "bilibili转发"
+          }
+        ]
+      },
+      "summary": {
+        "total_platforms": 4,
+        "total_amplifiers": 10,
+        "has_media_intervention": false,
+        "propagation_depth": 6
+      }
+    },
+    "摆拍浸猪笼被刑拘": {
+      "success": true,
+      "origin": {
+        "user_name": "dhgcfhb",
+        "platform": "bilibili",
+        "content_preview": "[doge]刚灌死一只，笼子第一次触发没关住(一看挂了四个月的火腿肠吃的还剩点)没想到还敢来第二次。",
+        "time": "2026-06-20 05:11:16",
+        "source_id": "BV1Pp4y1775k",
+        "comment_id": "306321916352",
+        "like_count": 0
+      },
+      "amplifiers": [
+        {
+          "user_name": "dhgcfhb",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-20 05:11:16",
+          "like_count": 0,
+          "reply_count": 0,
+          "content_preview": "[doge]刚灌死一只，笼子第一次触发没关住(一看挂了四个月的火腿肠吃的还剩点)没想到还敢来第二次。"
+        },
+        {
+          "user_name": "小企鹅勇闯B站",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-26 09:20:50",
+          "like_count": 13,
+          "reply_count": 1,
+          "content_preview": "低俗庸俗恶俗"
+        },
+        {
+          "user_name": "紫婷玉",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-26 09:38:26",
+          "like_count": 15,
+          "reply_count": 1,
+          "content_preview": "这也太逆天了[笑哭]"
+        },
+        {
+          "user_name": "铁坚力量",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-26 11:10:35",
+          "like_count": 15,
+          "reply_count": 1,
+          "content_preview": "其实这些都是人才，但地点不对，要到横店去啊 戏越多，演位就越多，这些傻帽 放出来继续，到横店什么角色都有 以后变成明星别忘了我[笑哭]"
+        },
+        {
+          "user_name": "Felixwi11丶",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-26 11:23:23",
+          "like_count": 10,
+          "reply_count": 0,
+          "content_preview": "还应该立法罚没非法所得并处以数倍罚款"
+        },
+        {
+          "user_name": "发疯的小松鼠",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-26 11:49:52",
+          "like_count": 3,
+          "reply_count": 1,
+          "content_preview": "汨罗玩的真 开[笑哭]"
+        },
+        {
+          "user_name": "爱不止是AI",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-26 12:09:59",
+          "like_count": 0,
+          "reply_count": 0,
+          "content_preview": "ip错误"
+        },
+        {
+          "user_name": "六币改这玩意",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-26 13:17:22",
+          "like_count": 83,
+          "reply_count": 0,
+          "content_preview": "老活动返场了[doge]"
+        },
+        {
+          "user_name": "仓鼠暗度",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-26 13:53:16",
+          "like_count": 32,
+          "reply_count": 4,
+          "content_preview": "破坏公序良俗刑拘[OK]"
+        },
+        {
+          "user_name": "咸鱼物语",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-26 14:00:30",
+          "like_count": 37,
+          "reply_count": 2,
+          "content_preview": "这在国外是不是应该叫做行为艺术？"
+        }
+      ],
+      "path": {
+        "bilibili": {
+          "total_posts": 105,
+          "first_post_time": "2026-06-20 05:11:16",
+          "top_users": [
+            {
+              "user_name": "六币改这玩意",
+              "time": "2026-06-26 13:17:22",
+              "like_count": 83,
+              "reply_count": 0,
+              "content_preview": "老活动返场了[doge]"
+            },
+            {
+              "user_name": "天丛云地丛雨",
+              "time": "2026-06-26 16:28:17",
+              "like_count": 72,
+              "reply_count": 0,
+              "content_preview": "还有口罩帽子，演员不敬业啊"
+            },
+            {
+              "user_name": "龙滩居士",
+              "time": "2026-06-26 17:56:09",
+              "like_count": 51,
+              "reply_count": 0,
+              "content_preview": "又MCN搞的事情吧，简直是“网络黑社会”，为了流量，使用限制人身自由、囚禁、游街等恶俗亚文化手段，传播不良价值观，对社会风气、对未成年人、对国家形象、对民族形象，都造成极其恶劣的影响。"
+            },
+            {
+              "user_name": "neverdead2017",
+              "time": "2026-07-06 19:17:26",
+              "like_count": 40,
+              "reply_count": 0,
+              "content_preview": "复兴非物质文化遗产任重道远啊"
+            },
+            {
+              "user_name": "咸鱼物语",
+              "time": "2026-06-26 14:00:30",
+              "like_count": 37,
+              "reply_count": 2,
+              "content_preview": "这在国外是不是应该叫做行为艺术？"
+            }
+          ]
+        },
+        "weibo": {
+          "total_posts": 77,
+          "first_post_time": "2026-07-04 20:23:24",
+          "top_users": [
+            {
+              "user_name": "春风十里不如你",
+              "time": "2026-07-05 21:12:59",
+              "like_count": 8362,
+              "reply_count": 413,
+              "content_preview": "关于摆拍浸猪笼被刑拘，等一个官方通报"
+            },
+            {
+              "user_name": "生活观察员",
+              "time": "2026-07-13 06:32:46",
+              "like_count": 6948,
+              "reply_count": 565,
+              "content_preview": "又是摆拍浸猪笼被刑拘，什么时候是个头"
+            },
+            {
+              "user_name": "春风十里不如你",
+              "time": "2026-07-11 07:07:26",
+              "like_count": 5187,
+              "reply_count": 306,
+              "content_preview": "#摆拍浸猪笼被刑拘# 忍不了了，必须给个说法"
+            },
+            {
+              "user_name": "路人甲9527",
+              "time": "2026-07-04 20:23:24",
+              "like_count": 4623,
+              "reply_count": 886,
+              "content_preview": "#摆拍浸猪笼被刑拘# 观望中……"
+            },
+            {
+              "user_name": "岁月静好",
+              "time": "2026-07-04 21:02:31",
+              "like_count": 3878,
+              "reply_count": 729,
+              "content_preview": "感谢大家的关注，#摆拍浸猪笼被刑拘# 正在变好"
+            }
+          ]
+        },
+        "xiaohongshu": {
+          "total_posts": 18,
+          "first_post_time": "2026-07-05 10:56:45",
+          "top_users": [
+            {
+              "user_name": "爱分享的小王",
+              "time": "2026-07-14 06:09:36",
+              "like_count": 7873,
+              "reply_count": 333,
+              "content_preview": "已收藏✅ 摆拍浸猪笼被刑拘这件事值得持续关注，加油！"
+            },
+            {
+              "user_name": "不瘦十斤不改名",
+              "time": "2026-07-10 12:20:33",
+              "like_count": 7848,
+              "reply_count": 686,
+              "content_preview": "姐妹们避雷⚠️ 关于摆拍浸猪笼被刑拘，我真的忍不了了[发怒]"
+            },
+            {
+              "user_name": "今天也要加油鸭",
+              "time": "2026-07-12 13:26:49",
+              "like_count": 6982,
+              "reply_count": 418,
+              "content_preview": "说得太对了！摆拍浸猪笼被刑拘就是要这样[加油][加油]"
+            },
+            {
+              "user_name": "人间清醒bot",
+              "time": "2026-07-11 05:25:27",
+              "like_count": 6552,
+              "reply_count": 639,
+              "content_preview": "先马住🐎 摆拍浸猪笼被刑拘，等更多信息出来再说"
+            },
+            {
+              "user_name": "在逃公主本人",
+              "time": "2026-07-09 10:53:36",
+              "like_count": 6428,
+              "reply_count": 732,
+              "content_preview": "观望ing……摆拍浸猪笼被刑拘到底是什么情况啊[疑问]"
+            }
+          ]
+        },
+        "toutiao": {
+          "total_posts": 6,
+          "first_post_time": "2026-07-08 00:54:10",
+          "top_users": [
+            {
+              "user_name": "天道酬勤",
+              "time": "2026-07-09 06:43:02",
+              "like_count": 2726,
+              "reply_count": 162,
+              "content_preview": "作为长期关注摆拍浸猪笼被刑拘的人，我认为这次的处理方式值得肯定。社会在进步，问题总会被解决。"
+            },
+            {
+              "user_name": "行者无疆",
+              "time": "2026-07-11 21:36:12",
+              "like_count": 2246,
+              "reply_count": 227,
+              "content_preview": "说实话，摆拍浸猪笼被刑拘已经不是第一次发生了。每次都是雷声大雨点小，老百姓的权益谁来保障？"
+            },
+            {
+              "user_name": "知无不言",
+              "time": "2026-07-08 06:53:00",
+              "like_count": 2128,
+              "reply_count": 171,
+              "content_preview": "摆拍浸猪笼被刑拘这件事暴露出很多深层次的问题。如果不从根本上解决，类似的事情还会再次发生。"
+            },
+            {
+              "user_name": "平凡人生",
+              "time": "2026-07-08 00:54:10",
+              "like_count": 1826,
+              "reply_count": 182,
+              "content_preview": "关于摆拍浸猪笼被刑拘事件，从目前的情况来看已经有了积极进展。希望相关部门和企业能够认真对待，给公众一个满意的答复。"
+            },
+            {
+              "user_name": "时光漫步者",
+              "time": "2026-07-09 05:40:54",
+              "like_count": 1356,
+              "reply_count": 151,
+              "content_preview": "摆拍浸猪笼被刑拘这个事件确实值得深思。从某种程度上说，它是社会发展过程中必然会遇到的问题。"
+            }
+          ]
+        }
+      },
+      "timeline": [
+        {
+          "stage": "首次曝光",
+          "time": "2026-06-20 05:11:16",
+          "actor": "dhgcfhb"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-20 05:11:16",
+          "actor": "dhgcfhb"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-26 09:20:50",
+          "actor": "小企鹅勇闯B站"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-26 09:38:26",
+          "actor": "紫婷玉"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-26 11:10:35",
+          "actor": "铁坚力量"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-26 11:23:23",
+          "actor": "Felixwi11丶"
+        }
+      ],
+      "graph": {
+        "nodes": [
+          {
+            "id": "origin_dhgcfhb",
+            "name": "dhgcfhb",
+            "type": "origin",
+            "platform": "bilibili",
+            "symbolSize": 40
+          },
+          {
+            "id": "amp_0_dhgcfhb",
+            "name": "dhgcfhb",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_1_小企鹅勇闯B站",
+            "name": "小企鹅勇闯B站",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_2_紫婷玉",
+            "name": "紫婷玉",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_3_铁坚力量",
+            "name": "铁坚力量",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_4_Felixwi11丶",
+            "name": "Felixwi11丶",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_5_发疯的小松鼠",
+            "name": "发疯的小松鼠",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_6_爱不止是AI",
+            "name": "爱不止是AI",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_7_六币改这玩意",
+            "name": "六币改这玩意",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_8_仓鼠暗度",
+            "name": "仓鼠暗度",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_9_咸鱼物语",
+            "name": "咸鱼物语",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          }
+        ],
+        "edges": [
+          {
+            "source": "origin_dhgcfhb",
+            "target": "amp_0_dhgcfhb",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_dhgcfhb",
+            "target": "amp_1_小企鹅勇闯B站",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_dhgcfhb",
+            "target": "amp_2_紫婷玉",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_dhgcfhb",
+            "target": "amp_3_铁坚力量",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_dhgcfhb",
+            "target": "amp_4_Felixwi11丶",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_dhgcfhb",
+            "target": "amp_5_发疯的小松鼠",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_dhgcfhb",
+            "target": "amp_6_爱不止是AI",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_dhgcfhb",
+            "target": "amp_7_六币改这玩意",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_dhgcfhb",
+            "target": "amp_8_仓鼠暗度",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_dhgcfhb",
+            "target": "amp_9_咸鱼物语",
+            "label": "bilibili转发"
+          }
+        ]
+      },
+      "summary": {
+        "total_platforms": 4,
+        "total_amplifiers": 10,
+        "has_media_intervention": false,
+        "propagation_depth": 6
+      }
+    },
+    "鹿晗工作室被踢出超话": {
+      "success": true,
+      "origin": {
+        "user_name": "皮卡一夏",
+        "platform": "bilibili",
+        "content_preview": "鹿晗工作室，除了名字，没有一个地方能配上鹿晗",
+        "time": "2026-07-04 20:40:03",
+        "source_id": "BV12GMA6gE4q",
+        "comment_id": "304846468481",
+        "like_count": 180
+      },
+      "amplifiers": [
+        {
+          "user_name": "皮卡一夏",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-04 20:40:03",
+          "like_count": 180,
+          "reply_count": 9,
+          "content_preview": "鹿晗工作室，除了名字，没有一个地方能配上鹿晗"
+        },
+        {
+          "user_name": "亦然ly",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-04 23:00:53",
+          "like_count": 14,
+          "reply_count": 1,
+          "content_preview": "妈呀菜单小细节我才知道"
+        },
+        {
+          "user_name": "Quezza_",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-04 23:37:39",
+          "like_count": 47,
+          "reply_count": 1,
+          "content_preview": "：鹿晗工作室你有什么头绪吗？"
+        },
+        {
+          "user_name": "木杆子",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-05 00:00:21",
+          "like_count": 11,
+          "reply_count": 0,
+          "content_preview": "完美融入家庭聚会"
+        },
+        {
+          "user_name": "L鹿LLLLLei",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-05 02:19:23",
+          "like_count": 9,
+          "reply_count": 0,
+          "content_preview": "我错过了wok看来我真的得关注陈赫了[鸭科夫_流汗鸭]我不如取关鹿晗工作室蒜了[鸭科夫_流汗鸭]"
+        },
+        {
+          "user_name": "也不喜欢吃渔",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-05 08:18:48",
+          "like_count": 0,
+          "reply_count": 0,
+          "content_preview": "喜茶工作室"
+        },
+        {
+          "user_name": "哇噻diu",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-05 09:45:43",
+          "like_count": 51,
+          "reply_count": 1,
+          "content_preview": "四巡鹿晗都点名高苏尧要拍物料了，结果呢，高苏尧和趴小趴就给随便拍了一个吃饭视频就没了，是真的很敷衍了事"
+        },
+        {
+          "user_name": "Showma_ker",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-06 03:38:22",
+          "like_count": 0,
+          "reply_count": 0,
+          "content_preview": "陈赫一看就是会经营的老总"
+        },
+        {
+          "user_name": "好物挖掘机",
+          "platform": "xiaohongshu",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-06 15:19:30",
+          "like_count": 7428,
+          "reply_count": 309,
+          "content_preview": "不敢说话了[捂脸] 鹿晗工作室被踢出超话懂的都懂……只能说很失望"
+        },
+        {
+          "user_name": "小明今天很开心",
+          "platform": "weibo",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-08 09:47:41",
+          "like_count": 6520,
+          "reply_count": 715,
+          "content_preview": "关于鹿晗工作室被踢出超话，等一个官方通报"
+        }
+      ],
+      "path": {
+        "bilibili": {
+          "total_posts": 45,
+          "first_post_time": "2026-07-04 20:40:03",
+          "top_users": [
+            {
+              "user_name": "加油河马君",
+              "time": "2026-07-09 07:44:41",
+              "like_count": 416,
+              "reply_count": 4,
+              "content_preview": "冷处理挺好啊，当年吴签他妈倒是没冷处理，一个报警最后把自己儿子送进去了，现在还没出来呢[笑哭]"
+            },
+            {
+              "user_name": "ran嘻嘻",
+              "time": "2026-07-08 14:01:25",
+              "like_count": 380,
+              "reply_count": 0,
+              "content_preview": "这都差不多实锤了，不冷处理咋整啊[笑哭]"
+            },
+            {
+              "user_name": "AK214711",
+              "time": "2026-07-08 16:00:38",
+              "like_count": 234,
+              "reply_count": 7,
+              "content_preview": "不是应该脱粉退出超话吗？替出去是啥操作？一怒之下，怒了一下？[笑哭]"
+            },
+            {
+              "user_name": "皮卡一夏",
+              "time": "2026-07-04 20:40:03",
+              "like_count": 180,
+              "reply_count": 9,
+              "content_preview": "鹿晗工作室，除了名字，没有一个地方能配上鹿晗"
+            },
+            {
+              "user_name": "aletc",
+              "time": "2026-07-09 21:57:33",
+              "like_count": 142,
+              "reply_count": 16,
+              "content_preview": "[吃瓜]懂得都懂"
+            }
+          ]
+        },
+        "toutiao": {
+          "total_posts": 6,
+          "first_post_time": "2026-07-06 04:35:31",
+          "top_users": [
+            {
+              "user_name": "冷暖自知",
+              "time": "2026-07-09 15:37:30",
+              "like_count": 2871,
+              "reply_count": 257,
+              "content_preview": "鹿晗工作室被踢出超话这个事件确实值得深思。从某种程度上说，它是社会发展过程中必然会遇到的问题。"
+            },
+            {
+              "user_name": "向阳花",
+              "time": "2026-07-09 17:08:15",
+              "like_count": 1492,
+              "reply_count": 219,
+              "content_preview": "作为长期关注鹿晗工作室被踢出超话的人，我认为这次的处理方式值得肯定。社会在进步，问题总会被解决。"
+            },
+            {
+              "user_name": "天道酬勤",
+              "time": "2026-07-07 15:58:04",
+              "like_count": 662,
+              "reply_count": 71,
+              "content_preview": "说实话，鹿晗工作室被踢出超话已经不是第一次发生了。每次都是雷声大雨点小，老百姓的权益谁来保障？"
+            },
+            {
+              "user_name": "老张看世界",
+              "time": "2026-07-14 18:43:32",
+              "like_count": 507,
+              "reply_count": 249,
+              "content_preview": "鹿晗工作室被踢出超话这件事暴露出很多深层次的问题。如果不从根本上解决，类似的事情还会再次发生。"
+            },
+            {
+              "user_name": "人生感悟",
+              "time": "2026-07-11 07:13:33",
+              "like_count": 164,
+              "reply_count": 68,
+              "content_preview": "关于鹿晗工作室被踢出超话事件，目前各方的说法还不完全一致。建议大家保持理性，等待权威部门的最终调查结果。"
+            }
+          ]
+        },
+        "weibo": {
+          "total_posts": 91,
+          "first_post_time": "2026-07-06 06:39:10",
+          "top_users": [
+            {
+              "user_name": "春风十里不如你",
+              "time": "2026-07-15 18:22:23",
+              "like_count": 8158,
+              "reply_count": 815,
+              "content_preview": "#鹿晗工作室被踢出超话# 理性吃瓜[吃瓜]"
+            },
+            {
+              "user_name": "小明今天很开心",
+              "time": "2026-07-08 09:47:41",
+              "like_count": 6520,
+              "reply_count": 715,
+              "content_preview": "关于鹿晗工作室被踢出超话，等一个官方通报"
+            },
+            {
+              "user_name": "时间的朋友",
+              "time": "2026-07-15 21:52:12",
+              "like_count": 5623,
+              "reply_count": 386,
+              "content_preview": "#鹿晗工作室被踢出超话# 太让人气愤了[怒]"
+            },
+            {
+              "user_name": "生活观察员",
+              "time": "2026-07-11 12:29:27",
+              "like_count": 3925,
+              "reply_count": 963,
+              "content_preview": "又是鹿晗工作室被踢出超话，什么时候是个头"
+            },
+            {
+              "user_name": "热点追踪者",
+              "time": "2026-07-06 06:39:10",
+              "like_count": 3143,
+              "reply_count": 265,
+              "content_preview": "#鹿晗工作室被踢出超话# 支持！希望妥善解决[加油]"
+            }
+          ]
+        },
+        "xiaohongshu": {
+          "total_posts": 18,
+          "first_post_time": "2026-07-06 15:19:30",
+          "top_users": [
+            {
+              "user_name": "熬夜冠军选手",
+              "time": "2026-07-11 10:18:48",
+              "like_count": 7852,
+              "reply_count": 787,
+              "content_preview": "说得太对了！鹿晗工作室被踢出超话就是要这样[加油][加油]"
+            },
+            {
+              "user_name": "好物挖掘机",
+              "time": "2026-07-06 15:19:30",
+              "like_count": 7428,
+              "reply_count": 309,
+              "content_preview": "不敢说话了[捂脸] 鹿晗工作室被踢出超话懂的都懂……只能说很失望"
+            },
+            {
+              "user_name": "小red书用户001",
+              "time": "2026-07-14 06:22:11",
+              "like_count": 7274,
+              "reply_count": 339,
+              "content_preview": "刷到了好多关于鹿晗工作室被踢出超话的笔记……等一个官方解释"
+            },
+            {
+              "user_name": "人间清醒bot",
+              "time": "2026-07-10 22:18:35",
+              "like_count": 7039,
+              "reply_count": 673,
+              "content_preview": "有没有课代表总结一下鹿晗工作室被踢出超话来龙去脉？[皱眉R]"
+            },
+            {
+              "user_name": "打工人的日常",
+              "time": "2026-07-11 09:03:21",
+              "like_count": 5218,
+              "reply_count": 395,
+              "content_preview": "已收藏✅ 鹿晗工作室被踢出超话这件事值得持续关注，加油！"
+            }
+          ]
+        }
+      },
+      "timeline": [
+        {
+          "stage": "首次曝光",
+          "time": "2026-07-04 20:40:03",
+          "actor": "皮卡一夏"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-04 20:40:03",
+          "actor": "皮卡一夏"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-04 23:00:53",
+          "actor": "亦然ly"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-04 23:37:39",
+          "actor": "Quezza_"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-05 00:00:21",
+          "actor": "木杆子"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-05 02:19:23",
+          "actor": "L鹿LLLLLei"
+        }
+      ],
+      "graph": {
+        "nodes": [
+          {
+            "id": "origin_皮卡一夏",
+            "name": "皮卡一夏",
+            "type": "origin",
+            "platform": "bilibili",
+            "symbolSize": 40
+          },
+          {
+            "id": "amp_0_皮卡一夏",
+            "name": "皮卡一夏",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_1_亦然ly",
+            "name": "亦然ly",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_2_Quezza_",
+            "name": "Quezza_",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_3_木杆子",
+            "name": "木杆子",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_4_L鹿LLLLLei",
+            "name": "L鹿LLLLLei",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_5_也不喜欢吃渔",
+            "name": "也不喜欢吃渔",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_6_哇噻diu",
+            "name": "哇噻diu",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_7_Showma_ker",
+            "name": "Showma_ker",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_8_好物挖掘机",
+            "name": "好物挖掘机",
+            "type": "amplifier",
+            "platform": "xiaohongshu",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_9_小明今天很开心",
+            "name": "小明今天很开心",
+            "type": "amplifier",
+            "platform": "weibo",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          }
+        ],
+        "edges": [
+          {
+            "source": "origin_皮卡一夏",
+            "target": "amp_0_皮卡一夏",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_皮卡一夏",
+            "target": "amp_1_亦然ly",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_皮卡一夏",
+            "target": "amp_2_Quezza_",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_皮卡一夏",
+            "target": "amp_3_木杆子",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_皮卡一夏",
+            "target": "amp_4_L鹿LLLLLei",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_皮卡一夏",
+            "target": "amp_5_也不喜欢吃渔",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_皮卡一夏",
+            "target": "amp_6_哇噻diu",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_皮卡一夏",
+            "target": "amp_7_Showma_ker",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_皮卡一夏",
+            "target": "amp_8_好物挖掘机",
+            "label": "xiaohongshu转发"
+          },
+          {
+            "source": "origin_皮卡一夏",
+            "target": "amp_9_小明今天很开心",
+            "label": "weibo转发"
+          }
+        ]
+      },
+      "summary": {
+        "total_platforms": 4,
+        "total_amplifiers": 10,
+        "has_media_intervention": false,
+        "propagation_depth": 6
+      }
+    },
+    "热搜泛娱乐化争议": {
+      "success": true,
+      "origin": {
+        "user_name": "吴老哥剐剐剐剐啊",
+        "platform": "bilibili",
+        "content_preview": "非要以火影同人那本来扯的话就是，虐角色（虽然我不支持，而且我喜欢小樱）被价值观小警察发现，然后扫射三次元路人女性和性少数",
+        "time": "2026-06-13 01:00:16",
+        "source_id": "BV1kzXuBwEk8",
+        "comment_id": "302470042417",
+        "like_count": 0
+      },
+      "amplifiers": [
+        {
+          "user_name": "吴老哥剐剐剐剐啊",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-13 01:00:16",
+          "like_count": 0,
+          "reply_count": 0,
+          "content_preview": "非要以火影同人那本来扯的话就是，虐角色（虽然我不支持，而且我喜欢小樱）被价值观小警察发现，然后扫射三次元路人女性和性少数"
+        },
+        {
+          "user_name": "Paaaruya",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-06-25 18:02:41",
+          "like_count": 1,
+          "reply_count": 0,
+          "content_preview": "闲情是纯bl论坛啊作者论坛在隔壁碧水"
+        },
+        {
+          "user_name": "人间清醒bot",
+          "platform": "xiaohongshu",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-05 11:24:45",
+          "like_count": 6145,
+          "reply_count": 151,
+          "content_preview": "真的栓Q了[微笑] 热搜泛娱乐化争议，这个处理态度我真的会谢"
+        },
+        {
+          "user_name": "纯阳宫乔咩咩",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-07 00:38:18",
+          "like_count": 7,
+          "reply_count": 7,
+          "content_preview": "窝趣！失踪人口回归！"
+        },
+        {
+          "user_name": "嚮死而后生",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-07 07:27:47",
+          "like_count": 60,
+          "reply_count": 0,
+          "content_preview": "别有用心的一场围剿"
+        },
+        {
+          "user_name": "齐若枫",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-07 12:34:39",
+          "like_count": 12,
+          "reply_count": 5,
+          "content_preview": "学习了，目前还在游戏中。说实话，已经有人去我账号下面wq了，苦不堪言啊[大哭]"
+        },
+        {
+          "user_name": "387107283",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-08 00:42:22",
+          "like_count": 1,
+          "reply_count": 0,
+          "content_preview": "太可怕了……"
+        },
+        {
+          "user_name": "小兔歪歪啊",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-08 01:03:23",
+          "like_count": 53,
+          "reply_count": 0,
+          "content_preview": "就是被做局了，明眼人一看就知道。"
+        },
+        {
+          "user_name": "这只黑猫好可怕",
+          "platform": "bilibili",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-08 03:00:27",
+          "like_count": 41,
+          "reply_count": 0,
+          "content_preview": "都看得出来是一场有预谋的围剿"
+        },
+        {
+          "user_name": "小red书用户001",
+          "platform": "xiaohongshu",
+          "type": "大V/高影响力用户",
+          "time": "2026-07-08 05:21:58",
+          "like_count": 6116,
+          "reply_count": 718,
+          "content_preview": "姐妹们避雷⚠️ 关于热搜泛娱乐化争议，我真的忍不了了[发怒]"
+        }
+      ],
+      "path": {
+        "bilibili": {
+          "total_posts": 135,
+          "first_post_time": "2026-06-13 01:00:16",
+          "top_users": [
+            {
+              "user_name": "坏事做尽夹心酱",
+              "time": "2026-07-10 16:47:40",
+              "like_count": 3440,
+              "reply_count": 26,
+              "content_preview": "[笑哭]"
+            },
+            {
+              "user_name": "ykdbd",
+              "time": "2026-07-10 13:24:02",
+              "like_count": 2029,
+              "reply_count": 15,
+              "content_preview": "他哥的，怎么一群减速带了啦"
+            },
+            {
+              "user_name": "翩翩起舞的光月作业本",
+              "time": "2026-07-09 17:31:19",
+              "like_count": 1820,
+              "reply_count": 18,
+              "content_preview": "读书确实是有用的，至少让我不会变成那样[doge]"
+            },
+            {
+              "user_name": "電弧ベリアル",
+              "time": "2026-07-10 07:32:59",
+              "like_count": 1722,
+              "reply_count": 15,
+              "content_preview": "观后感:"
+            },
+            {
+              "user_name": "大狗吸吸",
+              "time": "2026-07-11 13:21:35",
+              "like_count": 1230,
+              "reply_count": 7,
+              "content_preview": "千言万语汇成一句话"
+            }
+          ]
+        },
+        "toutiao": {
+          "total_posts": 6,
+          "first_post_time": "2026-07-05 05:06:51",
+          "top_users": [
+            {
+              "user_name": "天道酬勤",
+              "time": "2026-07-05 05:06:51",
+              "like_count": 2864,
+              "reply_count": 160,
+              "content_preview": "说实话，热搜泛娱乐化争议已经不是第一次发生了。每次都是雷声大雨点小，老百姓的权益谁来保障？"
+            },
+            {
+              "user_name": "知无不言",
+              "time": "2026-07-09 21:58:37",
+              "like_count": 2630,
+              "reply_count": 210,
+              "content_preview": "作为长期关注热搜泛娱乐化争议的人，我认为这次的处理方式值得肯定。社会在进步，问题总会被解决。"
+            },
+            {
+              "user_name": "社会观察家",
+              "time": "2026-07-10 15:03:54",
+              "like_count": 2415,
+              "reply_count": 153,
+              "content_preview": "关于热搜泛娱乐化争议事件，从目前的情况来看已经有了积极进展。希望相关部门和企业能够认真对待，给公众一个满意的答复。"
+            },
+            {
+              "user_name": "冷暖自知",
+              "time": "2026-07-13 05:45:38",
+              "like_count": 2350,
+              "reply_count": 239,
+              "content_preview": "热搜泛娱乐化争议这件事暴露出很多深层次的问题。如果不从根本上解决，类似的事情还会再次发生。"
+            },
+            {
+              "user_name": "山清水秀",
+              "time": "2026-07-08 06:42:15",
+              "like_count": 1887,
+              "reply_count": 185,
+              "content_preview": "热搜泛娱乐化争议这个事件确实值得深思。从某种程度上说，它是社会发展过程中必然会遇到的问题。"
+            }
+          ]
+        },
+        "xiaohongshu": {
+          "total_posts": 18,
+          "first_post_time": "2026-07-05 11:24:45",
+          "top_users": [
+            {
+              "user_name": "橙子味的夏天",
+              "time": "2026-07-14 18:10:22",
+              "like_count": 7760,
+              "reply_count": 163,
+              "content_preview": "已收藏✅ 热搜泛娱乐化争议这件事值得持续关注，加油！"
+            },
+            {
+              "user_name": "打工人的日常",
+              "time": "2026-07-13 18:21:17",
+              "like_count": 6477,
+              "reply_count": 385,
+              "content_preview": "观望ing……热搜泛娱乐化争议到底是什么情况啊[疑问]"
+            },
+            {
+              "user_name": "人间清醒bot",
+              "time": "2026-07-15 03:12:44",
+              "like_count": 6319,
+              "reply_count": 370,
+              "content_preview": "👏👏👏 终于！热搜泛娱乐化争议有进展了！姐妹们冲！"
+            },
+            {
+              "user_name": "人间清醒bot",
+              "time": "2026-07-05 11:24:45",
+              "like_count": 6145,
+              "reply_count": 151,
+              "content_preview": "真的栓Q了[微笑] 热搜泛娱乐化争议，这个处理态度我真的会谢"
+            },
+            {
+              "user_name": "小red书用户001",
+              "time": "2026-07-08 05:21:58",
+              "like_count": 6116,
+              "reply_count": 718,
+              "content_preview": "姐妹们避雷⚠️ 关于热搜泛娱乐化争议，我真的忍不了了[发怒]"
+            }
+          ]
+        },
+        "weibo": {
+          "total_posts": 24,
+          "first_post_time": "2026-07-08 18:24:12",
+          "top_users": [
+            {
+              "user_name": "小明今天很开心",
+              "time": "2026-07-13 17:44:17",
+              "like_count": 8963,
+              "reply_count": 428,
+              "content_preview": "#热搜泛娱乐化争议# 忍不了了，必须给个说法"
+            },
+            {
+              "user_name": "吃瓜少女小陈",
+              "time": "2026-07-13 04:25:22",
+              "like_count": 7169,
+              "reply_count": 890,
+              "content_preview": "#热搜泛娱乐化争议# 观望中……"
+            },
+            {
+              "user_name": "小确幸生活家",
+              "time": "2026-07-15 09:52:14",
+              "like_count": 6088,
+              "reply_count": 577,
+              "content_preview": "又是热搜泛娱乐化争议，什么时候是个头"
+            },
+            {
+              "user_name": "生活观察员",
+              "time": "2026-07-09 15:30:58",
+              "like_count": 5009,
+              "reply_count": 376,
+              "content_preview": "关于热搜泛娱乐化争议，等一个官方通报"
+            },
+            {
+              "user_name": "日落大道",
+              "time": "2026-07-11 00:38:16",
+              "like_count": 4877,
+              "reply_count": 651,
+              "content_preview": "关于热搜泛娱乐化争议，总算有进展了[赞]"
+            }
+          ]
+        }
+      },
+      "timeline": [
+        {
+          "stage": "首次曝光",
+          "time": "2026-06-13 01:00:16",
+          "actor": "吴老哥剐剐剐剐啊"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-13 01:00:16",
+          "actor": "吴老哥剐剐剐剐啊"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-06-25 18:02:41",
+          "actor": "Paaaruya"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-05 11:24:45",
+          "actor": "人间清醒bot"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-07 00:38:18",
+          "actor": "纯阳宫乔咩咩"
+        },
+        {
+          "stage": "大V/高影响力用户介入",
+          "time": "2026-07-07 07:27:47",
+          "actor": "嚮死而后生"
+        }
+      ],
+      "graph": {
+        "nodes": [
+          {
+            "id": "origin_吴老哥剐剐剐剐啊",
+            "name": "吴老哥剐剐剐剐啊",
+            "type": "origin",
+            "platform": "bilibili",
+            "symbolSize": 40
+          },
+          {
+            "id": "amp_0_吴老哥剐剐剐剐啊",
+            "name": "吴老哥剐剐剐剐啊",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_1_Paaaruya",
+            "name": "Paaaruya",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_2_人间清醒bot",
+            "name": "人间清醒bot",
+            "type": "amplifier",
+            "platform": "xiaohongshu",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_3_纯阳宫乔咩咩",
+            "name": "纯阳宫乔咩咩",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_4_嚮死而后生",
+            "name": "嚮死而后生",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_5_齐若枫",
+            "name": "齐若枫",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_6_387107283",
+            "name": "387107283",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_7_小兔歪歪啊",
+            "name": "小兔歪歪啊",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_8_这只黑猫好可怕",
+            "name": "这只黑猫好可怕",
+            "type": "amplifier",
+            "platform": "bilibili",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          },
+          {
+            "id": "amp_9_小red书用户001",
+            "name": "小red书用户001",
+            "type": "amplifier",
+            "platform": "xiaohongshu",
+            "symbolSize": 30,
+            "subtype": "大V/高影响力用户"
+          }
+        ],
+        "edges": [
+          {
+            "source": "origin_吴老哥剐剐剐剐啊",
+            "target": "amp_0_吴老哥剐剐剐剐啊",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_吴老哥剐剐剐剐啊",
+            "target": "amp_1_Paaaruya",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_吴老哥剐剐剐剐啊",
+            "target": "amp_2_人间清醒bot",
+            "label": "xiaohongshu转发"
+          },
+          {
+            "source": "origin_吴老哥剐剐剐剐啊",
+            "target": "amp_3_纯阳宫乔咩咩",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_吴老哥剐剐剐剐啊",
+            "target": "amp_4_嚮死而后生",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_吴老哥剐剐剐剐啊",
+            "target": "amp_5_齐若枫",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_吴老哥剐剐剐剐啊",
+            "target": "amp_6_387107283",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_吴老哥剐剐剐剐啊",
+            "target": "amp_7_小兔歪歪啊",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_吴老哥剐剐剐剐啊",
+            "target": "amp_8_这只黑猫好可怕",
+            "label": "bilibili转发"
+          },
+          {
+            "source": "origin_吴老哥剐剐剐剐啊",
+            "target": "amp_9_小red书用户001",
+            "label": "xiaohongshu转发"
+          }
+        ]
+      },
+      "summary": {
+        "total_platforms": 4,
+        "total_amplifiers": 10,
+        "has_media_intervention": false,
+        "propagation_depth": 6
+      }
+    }
+  }
+}

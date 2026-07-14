@@ -1,0 +1,51 @@
+{
+  "events": [
+    {
+      "keyword": "台风巴威登陆",
+      "event_title": "超强台风\"巴威\"登陆浙江引发多省洪涝灾害",
+      "date_start": "2026-07-10",
+      "date_end": "2026-07-20",
+      "risk_level": "high"
+    },
+    {
+      "keyword": "幽灵外卖平台被罚",
+      "event_title": "市场监管总局对\"幽灵外卖\"重拳出击",
+      "date_start": "2026-07-05",
+      "date_end": "2026-07-15",
+      "risk_level": "high"
+    },
+    {
+      "keyword": "摆拍浸猪笼被刑拘",
+      "event_title": "湖南汨罗\"摆拍浸猪笼\"事件策划者被刑拘",
+      "date_start": "2026-07-04",
+      "date_end": "2026-07-14",
+      "risk_level": "medium"
+    },
+    {
+      "keyword": "AI看病误诊纠纷",
+      "event_title": "大模型AI看病误诊致死纠纷引医疗AI监管升级",
+      "date_start": "2026-06-25",
+      "date_end": "2026-07-12",
+      "risk_level": "high"
+    },
+    {
+      "keyword": "无人驾驶出租车撞人",
+      "event_title": "无人驾驶出租车撞人致死事故引技术伦理大讨论",
+      "date_start": "2026-06-28",
+      "date_end": "2026-07-13",
+      "risk_level": "high"
+    }
+  ],
+  "platforms": [
+    "bilibili",
+    "weibo",
+    "toutiao",
+    "xiaohongshu"
+  ],
+  "comments_per_event": 500,
+  "delay": 1,
+  "modes": [
+    "real",
+    "mock"
+  ]
+}
